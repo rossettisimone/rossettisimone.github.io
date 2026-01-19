@@ -7,3 +7,23 @@
 
 "Vision":
   color: "#009f36"
+
+"ECCV":
+  url: "https://eccv.ecva.net/"
+  color: "#070bff"
+
+"ICCV":
+  url: "https://iccv.thecvf.com/"
+  color: "#FFA500"
+
+"NeurIPS":
+  url: "https://neurips.cc/"
+  color: "#8F00FF"
+
+"arXiv":
+  url: "https://arxiv.org/"
+  color: "#FF0000"
+
+"IRIS":
+  url: "https://iris.uniroma1.it/"
+  color: "#FF0000"

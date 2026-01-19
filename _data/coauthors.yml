@@ -32,3 +32,27 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+"pirri":
+  - firstname: ["Fiora", "F.", "Pirri"]
+    url: https://scholar.google.com/citations?user=VkYspW0AAAAJ&hl
+
+"sanzari":
+  - firstname: ["Marta", "M.", "Sanzari"]
+    url: https://scholar.google.com/citations?user=Qaq3N3cAAAAJ&hl
+
+"schaerf":
+  - firstname: ["Marco", "M.", "Schaerf"]
+    url: https://scholar.google.com/citations?user=7Wju9ggAAAAJ&hl
+
+"david":
+  - firstname: ["Etienne", "E.", "David"]
+    url: https://scholar.google.com/citations?hl=en&user=fz6wzGsAAAAJ
+
+"franchetti":
+  - firstname: ["Benjamin", "B.", "Franchetti"]
+    url: https://scholar.google.com/citations?hl=en&user=lUssrwYAAAAJ
+
+"sama":
+  - firstname: ["Nico", "N.", "Sama"]
+    url: https://scholar.google.com/citations?hl=en&user=dma4OokAAAAJ

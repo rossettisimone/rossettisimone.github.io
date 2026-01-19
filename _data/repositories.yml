@@ -1,14 +1,19 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - rossettisimone
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - deepplants/recursive-deep-spectral-clustering
+  - deepplants/ViT-PCM
+  - deepplants/agm-plant-classification
+  - rossettisimone/SpatioTemporalAR-ERA5
+  - rossettisimone/BearingOnlySLAMLeastSquare
+  - rossettisimone/YOLOV4-1Tr
+  - garg-akash/Steganography_GANs
+  - rossettisimone/AUGMENTATION_GAN
+  - rossettisimone/PPO_PONG_DISCRETE
+  - rossettisimone/PPO_MOUNTAINCAR_DISCRETE
+  - rossettisimone/SR_ROBO
+  - rossettisimone/ILC_2DOF_PlanarArm
+  - rossettisimone/ProgettoRESPA

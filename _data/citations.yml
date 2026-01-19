@@ -1,6 +1,26 @@
 metadata:
-  last_updated: '2026-01-05'
+  last_updated: '2026-01-17'
 papers:
+  aynWg48AAAAJ:9yKSN-GCB0IC:
+    citations: 0
+    title: Removing supervision in semantic segmentation is still tricky. Current approaches can deal with common categorical patterns yet resort to multi-stage architectures. We design a novel end-to-end model leveraging local-global patch matching to predict categories, good localization, area and shape of objects for semantic segmentation. The local-global matching is, in turn, compelled by optimal transport plans fulfilling area constraints nearing a solution for exact shape prediction. Our model attains state-of-the-art in Weakly Supervised Semantic Segmentation, only image-level labels, with 75% mIoU on PascalVOC2012 val set and 46% on MS-COCO2014 val set. Dropping the image-level labels and clustering self-supervised learned features to yield pseudo-multi-level labels, we obtain an unsupervised model for semantic segmentation. We also attain state-of-the-art on Unsupervised Semantic Segmentation with 43.6% mIoU on PascalVOC2012 val set and 19.4% on MS-COCO2014 val set.
+    year: "2023"
+  aynWg48AAAAJ:UeHWp8X0CEIC:
+    citations: 0
+    title: Reducing supervision in semantic segmentation through advancements in bayesian prior modelling
+    year: '2025'
+  aynWg48AAAAJ:qjMakFHDy7sC:
+    citations: 1
+    title: "Hierarchy-Agnostic Unsupervised Segmentation: Parsing Semantic Image Structure"
+    year: '2024'
+  aynWg48AAAAJ:2osOgNQ5qMEC:
+    citations: 12
+    title: A new Large Dataset and a Transfer Learning Methodology for Plant Phenotyping in Vertical Farms
+    year: '2023'
+  aynWg48AAAAJ:d1gkVwhDpl0C:
+    citations: 96
+    title: Max Pooling with Vision Transformers Reconciles Class and Shape in Weakly Supervised Semantic Segmentation
+    year: '2022'
   qc6CJjYAAAAJ:-1WLWRmjvKAC:
     citations: 4
     title: THE DULONG-PETIT LAW OF SPECIFIC HEATS
