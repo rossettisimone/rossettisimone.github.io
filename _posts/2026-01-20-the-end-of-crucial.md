@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The End of Crucial: How the Memory Industry Is Abandoning the Consumer Market"
-date: 2026-01-19 11:00:00+0000
+date: 2026-01-20 11:00:00+0000
 description: Micron’s decision to discontinue Crucial marks a structural shift in the memory industry, driven by AI demand and rising prices.
 tags: [memory, ai, semiconductors, hardware, market]
 categories: [technology, industry]
