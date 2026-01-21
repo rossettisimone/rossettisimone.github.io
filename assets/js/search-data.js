@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-end-of-crucial-how-the-memory-industry-is-abandoning-the-consumer-market",
+        },{id: "post-how-a-token-first-language-axis-is-reshaping-multimodal-ai",
+        
+          title: "How a Token-First Language Axis Is Reshaping Multimodal AI",
+        
+        description: "Discrete tokens, any-to-any learning, and why language is becoming the operating system of multimodal AI.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/how-a-token-first-language/";
+          
+        },
+      },{id: "post-the-end-of-crucial-how-the-memory-industry-is-abandoning-the-consumer-market",
         
           title: "The End of Crucial: How the Memory Industry Is Abandoning the Consumer Market...",
         
