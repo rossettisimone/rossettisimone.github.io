@@ -13,7 +13,8 @@ tags:
   - nanotechnology
 categories:
   - research
-  - semiconductors
+  - industry
+  - technology
 toc:
   beginning: true
 citation: true
