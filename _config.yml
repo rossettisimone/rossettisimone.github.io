@@ -9,7 +9,7 @@ last_name: Rossetti
 contact_note: >
   Best way to reach me: email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Simone Rossetti — AI Research Engineer working on computer vision and vision-language learning.
+  Personal website of Simone Rossetti, AI Research Engineer working on computer vision and vision-language learning.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
