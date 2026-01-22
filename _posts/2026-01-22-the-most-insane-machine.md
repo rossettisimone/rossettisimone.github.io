@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Most Insane Machine on Earth: Inside ASML’s EUV Lithography Systems"
-date: 2026-01-21 11:00:00 +0000
+date: 2026-01-22 11:00:00 +0000
 description: "A deep dive into ASML’s extreme ultraviolet lithography machines: the most complex, expensive, and strategically critical tools in modern semiconductor manufacturing."
 tags:
   - semiconductors
