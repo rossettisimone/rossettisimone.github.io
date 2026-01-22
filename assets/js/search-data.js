@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-how-a-token-first-language-axis-is-reshaping-multimodal-ai",
+        },{id: "post-the-most-insane-machine-on-earth-inside-asml-s-euv-lithography-systems",
+        
+          title: "The Most Insane Machine on Earth: Inside ASML’s EUV Lithography Systems",
+        
+        description: "A deep dive into ASML’s extreme ultraviolet lithography machines: the most complex, expensive, and strategically critical tools in modern semiconductor manufacturing.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-most-insane-machine/";
+          
+        },
+      },{id: "post-how-a-token-first-language-axis-is-reshaping-multimodal-ai",
         
           title: "How a Token-First Language Axis Is Reshaping Multimodal AI",
         
