@@ -8,9 +8,9 @@
     - name: Location
       value: Rome, Italy
     - name: Email
-      value: simone.rossetti[at]live[dot]com
+      value: simone.rossetti [at] live [dot] com
     - name: Phone
-      value: "+39 349 105 9384"
+      value: (+39) [space] 349 [space] 105 [space] 9384
 
 - title: Summary
   type: map
