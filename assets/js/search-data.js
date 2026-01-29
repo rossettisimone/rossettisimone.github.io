@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-most-insane-machine-on-earth-inside-asml-s-euv-lithography-systems",
+        },{id: "post-the-state-of-digitalisation-in-eu-agriculture-what-the-data-finally-shows",
+        
+          title: "The State of Digitalisation in EU Agriculture: What the Data Finally Shows",
+        
+        description: "Based on 1,444 farm interviews across nine EU countries, the JRC provides the first real baseline of agricultural digitalisation. The message is clear: software and records first, drones and heavy tech later.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/the-state-of-digitalisation-in-eu-agriculture/";
+          
+        },
+      },{id: "post-the-most-insane-machine-on-earth-inside-asml-s-euv-lithography-systems",
         
           title: "The Most Insane Machine on Earth: Inside ASML’s EUV Lithography Systems",
         
