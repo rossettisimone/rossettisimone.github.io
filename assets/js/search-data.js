@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "Curriculum vitae (PDF download available above).",
           section: "Navigation",
           handler: () => {
@@ -83,6 +83,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-lessons-learned-while-designing-a-multimodal-benchmark-for-agricultural-decision-support",
+          title: 'Lessons learned while designing a multimodal benchmark for agricultural decision support',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "news-cabbo-applying-to-cosmic-and-smarterra-open-calls",
           title: 'CABBO applying to COSMIC and SmarTerra open calls',
           description: "",
