@@ -746,7 +746,7 @@ In this folder you need to store your file in the same format as you would in `_
 ## Setting up a Personal Access Token (PAT) for Google Scholar Citation Updates
 
 > [!TIP]
-> After setting up al-folio you may want to run `python3 bin/update_citations.py` to fill the `_data/citations.yml` file with your Google Scholar citation counts.
+> After setting up al-folio you may want to run `python3 bin/update_scholar_citations.py` to fill the `_data/citations.yml` file with your Google Scholar citation counts.
 
 This project includes an automated workflow to update the citation counts for your publications using Google Scholar.
 The workflow commits changes to `_data/citations.yml` directly to the `main` branch.

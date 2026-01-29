@@ -4,58 +4,129 @@
     - name: Full Name
       value: Simone Rossetti
     - name: Role
-      value: Senior Deep Learning Scientist / AI Research Engineer
+      value: Senior Deep Learning Scientist • PhD in Computer Science Engineering • Startup Founder
     - name: Location
       value: Rome, Italy
     - name: Email
       value: simone.rossetti[at]live[dot]com
+    - name: Phone
+      value: "+39 349 105 9384"
 
-- title: Education
-  type: time_table
+- title: Summary
+  type: map
   contents:
-    - title: PhD in Engineering in Computer Science
-      institution: Sapienza Università di Roma
-      year: 2021 - 2025
-      description:
-        - Thesis: “Reducing supervision in semantic segmentation through advancements in Bayesian prior modelling”.
-    - title: MSc in Artificial Intelligence and Robotics
-      institution: Sapienza Università di Roma
-      year: 2019 - 2021
-      description:
-        - Master's thesis on fast instance segmentation and tracking for YouTube-VIS 2021.
-    - title: BSc in Computer Engineering
-      institution: Università degli Studi Roma Tre
-      year: 2015 - 2019
-      description:
-        - Focus on automation engineering.
+    - name: Profile
+      value: Specialist in multimodal feature learning, vision language alignment, and structured visual perception. Over four years of experience leading AI research teams and developing scalable, research-grade and production-ready models. Published at top-tier venues and involved in EU-funded multidisciplinary research. Strong focus on bridging theory and application through weakly- and self-supervised learning, large-scale training, and multimodal system design, with growing interest in Vision Language Action models and agent-oriented AI.
+
+- title: Professional Achievements
+  type: list
+  contents:
+    - Co-founded an AI research startup in agri-tech, leading the development of multimodal, agent-oriented AI systems for micro-farming management and decision support.
+    - Led and mentored a multidisciplinary R&D team, defining roadmaps and establishing reproducible ML workflows, dataset curation practices, and evaluation protocols.
+    - Designed and optimized large-scale vision and vision-language models on multi-GPU infrastructures, supporting experimentation, benchmarking, and efficient fine-tuning.
+    - Built end-to-end multimodal data pipelines, spanning dataset engineering, experiment tracking, and foundation model evaluation.
+    - Co-authored EU-funded research proposals in sustainable agri-tech and smart automation.
+    - Published first-author research at top-tier venues including NeurIPS, ICCV, and ECCV on weakly supervised, self-supervised, and structure-aware semantic segmentation.
 
 - title: Experience
   type: time_table
   contents:
     - title: Co-Founder & AI Research Engineer
-      institution: DeepPlants S.r.l.
-      year: 2021 - present
+      institution: DeepPlants S.r.l. • AI research startup in agri-tech and intelligent automation
+      year: Sep 2021 - Present
       description:
-        - Led development of AI systems for plant phenotyping and agri-tech automation.
+        - Led development of multimodal, agent-oriented AI systems for micro-farming management and decision support.
         - Built scalable training pipelines (multi-GPU) and optimized data workflows.
     - title: AI Research Fellow
-      institution: Sapienza Università di Roma (DIAG)
-      year: 2021
+      institution: Sapienza Università di Roma • Research grant at DIAG, focused on computer vision and AI
+      year: Jan 2021 - Oct 2021
       description:
         - Research in AI and computer vision, contributing to projects and publications.
     - title: ICT Application Developer
-      institution: VIK School S.r.l.
-      year: 2019 - 2020
+      institution: VIK School S.r.l. • Development of accessible digital learning platforms
+      year: Jun 2019 - Apr 2020
       description:
         - Built accessibility-compliant adaptive learning tools and interactive platforms.
 
-- title: Research Interests
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science Engineering
+      institution: Sapienza Università di Roma • GPA N/A • Final grade Excellent • Advisors Pirri F.; Amerini I.
+      year: Nov 2021 - Jan 2025
+      description:
+        - Thesis "Reducing supervision in semantic segmentation through advancements in Bayesian prior modelling" (UNITesi 2025).
+    - title: MSc in Artificial Intelligence and Robotics
+      institution: Sapienza Università di Roma • GPA 28.2/30 • Final grade 110/110 Cum Laude
+      year: Oct 2019 - Oct 2021
+      description:
+        - Master's thesis on fast instance segmentation and tracking for YouTube-VIS 2021.
+    - title: BSc in Computer Engineering
+      institution: Università degli Studi Roma Tre • GPA 23.3/30 • Final grade 95/110
+      year: Oct 2015 - Mar 2019
+      description:
+        - Focus on automation engineering.
+
+- title: Academic Contributions
+  type: list
+  contents:
+    - "Rossetti, S., Gatti, P., Palleschi, D. (2025-2026, Ongoing). CABBAGE: Comprehensive Agricultural Benchmark Backed by AI-Guided Evaluation."
+    - "Rossetti, S. (2025, UNITesi). Reducing supervision in semantic segmentation through advancements in bayesian prior modelling."
+    - "Rossetti, S., Pirri, F. (2024, NeurIPS). Unsupervised Hierarchy-Agnostic Segmentation: Parsing Semantic Image Structure."
+    - "Rossetti, S., Samà, N., Pirri, F. (2023, arXiv). Removing supervision in semantic segmentation with local-global matching and area balancing."
+    - "Samà, N., David, E., Rossetti, S. et al. (2023, ICCV). A new large dataset and a transfer learning methodology for plant phenotyping in Vertical Farms."
+    - "Rossetti, S. et al. (2022, ECCV). Max pooling with vision transformers reconciles class and shape in weakly supervised semantic segmentation."
+    - "Rossetti, S., Zharkynbek, T., Pirri, F. (2021, YouTubeVOS). Video Instance segmentation Challenge 2021 with YoloV4+1Tr."
+
+- title: Languages
   type: nested_list
   contents:
-    - title: Computer vision & vision-language
+    - title: Italian
       items:
-        - Representation learning and vision-language alignment
-        - Weakly/self-supervised learning for segmentation
-    - title: Scalable ML engineering
+        - Native (C2)
+    - title: English
       items:
-        - Efficient training (DDP/FSDP/DeepSpeed) and reproducible workflows
+        - Fluent (C1)
+
+- title: Technical Skills
+  type: list_groups
+  contents:
+    - category: Expertise Areas
+      items:
+        - name: Multimodal feature learning, vision language alignment and grounding
+        - name: Weakly- and self-supervised learning, structured visual perception
+        - name: Semantic and instance segmentation, foundation model benchmarking
+    - category: Vision & Multimodal Models
+      items:
+        - name: Vision Transformers, vision language models and contrastive pretraining
+        - name: Segmentation foundation models, multimodal encoders and decoders
+        - name: Masked autoencoding, contrastive and clustering-based learning
+        - name: Efficient fine-tuning and distillation
+    - category: Language & Agentic Models
+      items:
+        - name: Large language models and encoder-decoder architectures
+        - name: Multimodal prompting and instruction tuning, vision language reasoning
+        - name: Tool-augmented and agent-oriented model design, retrieval-augmented pipelines
+    - category: Training, Scaling & Optimization
+      items:
+        - name: Large-scale multimodal training, distributed training, multi-GPU optimization
+        - name: Scalable inference, experiment tracking, evaluation protocols
+        - name: Reproducibility-oriented research workflows
+    - category: Engineering & Research Tooling
+      items:
+        - name: Python, PyTorch and Lightning, Hugging Face ecosystem
+        - name: Docker, Linux, Git, SQL, multi-GPU environments
+        - name: Dataset curation and pipeline engineering
+
+- title: Venues
+  type: nested_list
+  contents:
+    - title: Poster Presentations
+      items:
+        - "NeurIPS '24, ICCV '23, ECCV '22"
+    - title: Networking & Partnerships
+      items:
+        - "EU R&I Days '25"
+    - title: Advanced Trainings
+      items:
+        - "ICVSS '22, DeepLearn '22"
