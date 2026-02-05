@@ -7,7 +7,7 @@ first_name: Simone
 middle_name: 
 last_name: Rossetti
 contact_note: >
-  Best way to reach me: email.
+  Best way to reach me is by email: ```simone[dot]rossetti[at]live[dot]com```
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Simone Rossetti, AI Research Engineer working on computer vision and vision-language learning.
 footer_text: >
