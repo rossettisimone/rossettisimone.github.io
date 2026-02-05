@@ -31,7 +31,7 @@ ninja.data = [{
             window.location.href = "/repositories/";
           },
         },{id: "nav-cv",
-          title: "CV",
+          title: "cv",
           description: "Curriculum vitae (PDF download available above).",
           section: "Navigation",
           handler: () => {
