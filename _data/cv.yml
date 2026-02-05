@@ -4,7 +4,7 @@
     - name: Full Name
       value: Simone Rossetti
     - name: Role
-      value: Deep Learning Scientist • PhD in Computer Science Engineering • Startup Founder
+      value: Applied Researcher • PhD in Computer Science Engineering • Startup Founder
     - name: Location
       value: Rome, Italy
     - name: Email
@@ -31,7 +31,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Co-Founder & AI Research Engineer
+    - title: Co-Founder & Applied Researcher
       institution: DeepPlants S.r.l. • AI research startup in agri-tech and intelligent automation
       year: Sep 2021 - Present
       description:
