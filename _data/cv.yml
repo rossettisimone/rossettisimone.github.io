@@ -4,13 +4,13 @@
     - name: Full Name
       value: Simone Rossetti
     - name: Role
-      value: Senior Deep Learning Scientist • PhD in Computer Science Engineering • Startup Founder
+      value: Deep Learning Scientist • PhD in Computer Science Engineering • Startup Founder
     - name: Location
       value: Rome, Italy
     - name: Email
-      value: simone.rossetti [at] live [dot] com
+      value: simone[dot]rossetti[at]live[dot]com
     - name: Phone
-      value: (+39) [space] 349 [space] 105 [space] 9384
+      value: (+39)[space]349[space]105[space]9384
 
 - title: Summary
   type: map

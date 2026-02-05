@@ -1,10 +1,10 @@
 {
   "basics": {
     "name": "Simone Rossetti",
-    "label": "Senior Deep Learning Scientist • PhD in Computer Science Engineering • Startup Founder",
+    "label": "Deep Learning Scientist • PhD in Computer Science Engineering • Startup Founder",
     "image": "",
-    "email": "simone.rossetti [at] live [dot] com",
-    "phone": "(+39) [space] 349 [space] 105 [space] 9384",
+    "email": "simone[dot]rossetti[at]live[dot]com",
+    "phone": "(+39)[space]349[space]105[space]9384",
     "url": "https://rossettisimone.github.io/",
     "summary": "Specialist in multimodal feature learning, vision language alignment, and structured visual perception. Over four years of experience leading AI research teams and developing scalable, research-grade and production-ready models. Published at top-tier venues and involved in EU-funded multidisciplinary research. Strong focus on bridging theory and application through weakly- and self-supervised learning, large-scale training, and multimodal system design, with growing interest in Vision Language Action models and agent-oriented AI.",
     "location": {
