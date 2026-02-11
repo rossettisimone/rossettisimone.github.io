@@ -36,14 +36,15 @@ class Error404I18n {
     }
 
     async loadTranslations() {
+        const base = (document.querySelector('base') && document.querySelector('base').getAttribute('href')) || '';
         try {
-            const response = await fetch(`${this.currentLanguage}.json`);
+            const response = await fetch(`${base}${this.currentLanguage}.json`);
             this.translations = await response.json();
         } catch (error) {
             console.error('Error loading translations:', error);
             // Fallback to English
             this.currentLanguage = 'en';
-            const response = await fetch('en.json');
+            const response = await fetch(`${base}en.json`);
             this.translations = await response.json();
         }
     }

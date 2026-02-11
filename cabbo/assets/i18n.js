@@ -56,7 +56,8 @@ class I18n {
     // Load translations from JSON file
     async loadTranslations() {
         try {
-            const response = await fetch(`${this.currentLanguage}.json`);
+            const base = (document.querySelector('base') && document.querySelector('base').getAttribute('href')) || '';
+            const response = await fetch(`${base}${this.currentLanguage}.json`);
             if (!response.ok) {
                 throw new Error(`Failed to load ${this.currentLanguage}.json`);
             }
