@@ -1,1 +1,655 @@
-{"meta":{"title":"Cabbo: Sistema di Supporto alle Decisioni Agricole Potenziato dall'IA","description":"Sistema rivoluzionario di supporto alle decisioni potenziato dall'IA che trasforma la gestione agricola","ogTitle":"Cabbo: IA per l'Agricoltura","ogDescription":"Sistema rivoluzionario di supporto alle decisioni potenziato dall'IA che trasforma la gestione agricola"},"navigation":{"home":"Home","capabilities":"Capacità","useCases":"Casi d'Uso","personas":"I Nostri Utenti Tipo","newsletter":"Newsletter","requestEarlyAccess":"Richiedi Accesso Anticipato","backToHome":"← Torna alla Home"},"hero":{"title":"Intelligenza Agricola Potenziata dall'IA","subtitle":"Trasformare la gestione aziendale con approfondimenti basati sui dati","requestEarlyAccess":"Richiedi Accesso Anticipato","answerSurvey":"Partecipa all'Analisi di Mercato","seeUseCases":"Vedi i Casi d'Uso"},"sections":{"capabilities":{"title":"Capacità Principali"},"useCases":{"title":"Casi d'Uso","searchPlaceholder":"Cerca casi d'uso...","showAll":"Mostra tutto","noResults":{"title":"Nessun caso d'uso trovato","subtitle":"Prova a modificare la ricerca o il filtro"}},"personas":{"title":"I Nostri Utenti Tipo"},"newsletter":{"title":"Rimani Informato","description":"Ricevi gli ultimi aggiornamenti sulla tecnologia IA agricola di Cabbo","emailPlaceholder":"Inserisci la tua email","subscribe":"Iscriviti","mobileButton":"Iscriviti Ora"}},"modals":{"useCase":{"impact":"Impatto","userSegment":"Segmento Utente","category":"Categoria","features":"Funzionalità","workflow":"Flusso di Lavoro","risk":"Rischio","userEffortReduction":"Riduzione Sforzo Utente","technicalFeasibility":"Fattibilità Tecnica"},"persona":{"close":"×","learnMore":"Scopri di più","profile":"Profilo","age":"Età","technicalLiteracy":"Alfabetizzazione Tecnica","landSize":"Dimensione Terreno","primaryCrop":"Coltura Principale","specialization":"Specializzazione","institution":"Istituzione","organization":"Organizzazione","challenges":"Sfide","goals":"Obiettivi","preferredFeatures":"Funzionalità Preferite"},"onboarding":{"close":"×"},"survey":{"title":"Aiutaci a Comprendere le Tue Esigenze Agricole","subtitle":"Stiamo conducendo un'analisi di mercato per comprendere meglio le sfide e le esigenze degli agricoltori. Le tue intuizioni sono cruciali per sviluppare soluzioni IA efficaci.","quickSurvey":"Intervista di Analisi di Mercato","description":"Questa intervista ci aiuterà a comprendere le tue sfide agricole, le pratiche attuali e come l'IA può supportare al meglio le tue operazioni agricole.","option1Title":"Opzione 1: Completa l'Intervista in una Nuova Scheda","option1Description":"Apri la nostra intervista completa di analisi di mercato in una nuova scheda. Puoi tornare a questa pagina in qualsiasi momento.","option1Button":"Apri Intervista in Nuova Scheda","option2Title":"Opzione 2: Intervista Incorporata","option2Description":"Completa l'intervista direttamente su questa pagina senza lasciare il sito web.","option2Button":"Inizia Intervista","surveyTitle":"Intervista di Analisi di Mercato Agricolo","surveyInstructions":"Ti preghiamo di scorrere nell'area dell'intervista qui sotto per completare tutte le domande sulle tue pratiche agricole e esigenze.","backButton":"← Indietro","tip":"💡 Suggerimento: Usa la barra di scorrimento nell'area dell'intervista per navigare attraverso tutte le domande.","openInNewTab":"Apri in Nuova Scheda","close":"Chiudi","footer":"Le tue risposte sono riservate e saranno utilizzate per sviluppare soluzioni IA che affrontino realmente le esigenze degli agricoltori."}},"footer":{"copyright":"© 2025 Cabbo Tutti i diritti riservati.","privacyPolicy":"Informativa sulla Privacy","termsOfService":"Termini di Servizio","cookiePolicy":"Informativa sui Cookie","contact":"Contatti"},"loading":{"message":"Caricamento..."},"fallbacks":{"capability":"Capacità","descriptionNotAvailable":"Descrizione non disponibile","useCase":"Caso d'Uso","notSpecified":"Non specificato"},"cookieBanner":{"message":"Utilizziamo i cookie per migliorare la tua esperienza di navigazione, analizzare il traffico del sito e personalizzare i contenuti. Puoi accettare tutti i cookie, rifiutare quelli non essenziali o personalizzare le tue preferenze. Vedi la nostra Informativa sui Cookie.","acceptAll":"Accetta tutto","reject":"Rifiuta non essenziali","customize":"Personalizza"},"cookiePreferences":{"title":"Preferenze Cookie","strictlyNecessary":{"title":"Cookie Strettamente Necessari","description":"Questi cookie sono essenziali per il corretto funzionamento del sito web e non possono essere disabilitati."},"analytics":{"title":"Cookie Analitici","description":"Questi cookie ci aiutano a capire come i visitatori interagiscono con il nostro sito web."},"marketing":{"title":"Cookie di Marketing","description":"Questi cookie sono utilizzati per fornire contenuti e pubblicità personalizzati."},"savePreferences":"Salva Preferenze","close":"Chiudi"},"data":{"capabilities":[{"name":"Agricoltura di Precisione","description":"Tecniche agricole avanzate basate sui dati utilizzando IA e immagini satellitari"},{"name":"Monitoraggio della Salute delle Colture","description":"Tracciamento e analisi in tempo reale delle condizioni delle colture utilizzando sensori avanzati e machine learning"},{"name":"Ottimizzazione delle Risorse","description":"Gestione intelligente di acqua, fertilizzanti e altri input agricoli"}],"useCases":[{"Use Cases":"Raccomandazioni per Input di Precisione","User Segment":"Titolari di Aziende Agricole, Esperti Agricoli","Why (Impact)":"Riduce gli sprechi di input e garantisce la conformità evitando prodotti vietati o utilizzati erroneamente","Category":"Servizi Agronomici Core","Features":"Fenotipizzazione Specie, Base di Conoscenza Agricola, Previsioni Meteo, Valutazione Suolo, Modello di Crescita Colture, Geolocalizzazione, Dati Satellitari, Base di Conoscenza Legislativa, Registrazione Dati","How (Inputs → AI Workflow → Output)":"Input: Caratteristiche del suolo (es. API USDA NRCS Soil Survey) + stadio fenologico della coltura (es. mappatura EPPO BBCH) + previsioni meteo (es. API Open-Meteo) → IA: Motore basato su regole + modello di ottimizzazione dei nutrienti specifico per coltura → Output: Tipo, dose e programma di applicazione di fertilizzanti/pesticidi personalizzati","Risk":5.0,"User Effort Reduction":5.0,"Technical Feasibility":4.0,"Network Effect":3.0,"Decision Impact":4.0},{"Use Cases":"Consulente Sussidi, Contributi e Certificazioni","User Segment":"Titolari di Aziende Agricole, Cooperative e Gruppi","Why (Impact)":"Aumenta l'accesso al supporto finanziario e alle certificazioni; riduce le barriere burocratiche","Category":"Guida Legale e sui Sussidi","Features":"Geolocalizzazione, Dati Satellitari, Base di Conoscenza Legislativa, Registrazione Dati","How (Inputs → AI Workflow → Output)":"Input: Geolocalizzazione e confini dell'azienda (es. API EU LPIS o sistemi GIS nazionali) + registri storici delle pratiche (es. FAOSTAT o CSV caricati dall'utente) → IA: Motore regole di idoneità + riassuntore LLM → Output: Lista di programmi rilevanti + modelli di domanda pre-compilati","Risk":4.0,"User Effort Reduction":5.0,"Technical Feasibility":4.0,"Network Effect":3.0,"Decision Impact":3.0},{"Use Cases":"Pianificazione Colture","User Segment":"Titolari di Aziende Agricole, Cooperative e Gruppi","Why (Impact)":"Allinea le attività con i calendari delle colture, il meteo e i mercati per ottimizzare i tempi e massimizzare la produzione","Category":"Servizi Agronomici Core, Supporto Gestione e Operazioni","Features":"Fenotipizzazione Specie, Previsione Rendimenti, Calendari Colture, Previsioni Meteo, Geolocalizzazione, Dati Satellitari, Valutazione Suolo, Registrazione Dati","How (Inputs → AI Workflow → Output)":"Input: Serie temporali NDVI colture basate su satellite (es. Sentinel-2 via API Copernicus) + calendari regionali storici (es. calendario colture FAO) + meteo locale (es. API Open-Meteo) → IA: Modello sequenziale (es. LSTM) + vincoli basati su regole → Output: Finestre raccomandate per semina, manutenzione e raccolta","Risk":3.0,"User Effort Reduction":4.0,"Technical Feasibility":3.0,"Network Effect":4.0,"Decision Impact":4.0},{"Use Cases":"Pianificazione Irrigazione","User Segment":"Titolari di Aziende Agricole, Cooperative e Gruppi","Why (Impact)":"Riduce gli sprechi d'acqua e lo stress da siccità personalizzando l'irrigazione in base al meteo locale, al suolo e alla fisiologia delle colture","Category":"Servizi Agronomici Core, Supporto Gestione e Operazioni","Features":"Fenotipizzazione Specie, Base di Conoscenza Agricola, Previsioni Meteo, Geolocalizzazione, Dati Satellitari, Valutazione Suolo, Modello di Crescita Colture, Base di Conoscenza Legislativa","How (Inputs → AI Workflow → Output)":"Input: Tipo di suolo e capacità di ritenzione idrica (es. API SoilGrids) + stadio della coltura (es. BBCH via EPPO) + previsioni meteo (API Open-Meteo) + tassi di evapotraspirazione (es. NASA POWER) → IA: Simulazione uso acqua colture + ottimizzatore programmazione → Output: Piano di irrigazione giornaliero o settimanale con volumi adattati alle previsioni","Risk":4.0,"User Effort Reduction":4.0,"Technical Feasibility":3.0,"Network Effect":3.0,"Decision Impact":4.0},{"Use Cases":"Gestore Risorse, Promemoria e Avvisi","User Segment":"Titolari di Aziende Agricole, Cooperative e Gruppi, Operatori di Estensione","Why (Impact)":"Migliora le operazioni aziendali tracciando input, lavoro e programmi, emettendo avvisi tempestivi da dati meteo, di mercato e sui parassiti","Category":"Supporto Gestione e Operazioni","Features":"Geolocalizzazione, Dati Satellitari, Previsione Mercato Commodities, Previsioni Meteo, Allerta Patogeni, Base di Conoscenza Legislativa, Registrazione Dati","How (Inputs → AI Workflow → Output)":"Input: Registri inventario (manuali, scansione OCR o log digitali via REST) + aggiornamenti prezzi commodities (es. API USDA Market News) + allerte meteo (es. Meteoalarm) + bollettini focolai parassiti (es. Database Globale EPPO) → IA: Sistema trigger guidato da eventi + programmatore attività → Output: Promemoria azioni personalizzati e allerte rischio con contesto tempestivo","Risk":3.0,"User Effort Reduction":3.0,"Technical Feasibility":5.0,"Network Effect":5.0,"Decision Impact":5.0},{"Use Cases":"Consulente Vendite","User Segment":"Titolari di Aziende Agricole, Cooperative e Gruppi","Why (Impact)":"Massimizza i ricavi prevedendo i picchi di prezzo e consigliando i tempi di vendita","Category":"Supporto Gestione e Operazioni","Features":"Previsione Rendimenti, Previsione Mercato Commodities, Base di Conoscenza Legislativa, Geolocalizzazione","How (Inputs → AI Workflow → Output)":"Input: Prezzi storici commodities (es. API FAO o USDA Market News) + tendenze di previsione (es. World Bank Agri Commodity Outlook) + inventario attuale (input manuale utente, scansione OCR o integrazione record) → IA: Previsione serie temporali (Prophet, LSTM) + soglie decisionali → Output: Consigli tempistica mercato (es. \"Vendi questa settimana\" con banda di confidenza)","Risk":3.0,"User Effort Reduction":4.0,"Technical Feasibility":4.0,"Network Effect":4.0,"Decision Impact":3.0},{"Use Cases":"Diagnosi Malattie e Parassiti","User Segment":"Titolari di Aziende Agricole, Esperti Agricoli, Operatori di Estensione, Cooperative e Gruppi","Why (Impact)":"Previene la perdita di rendimento attraverso il rilevamento e trattamento precoci","Category":"Servizi Agronomici Core","Features":"Fenotipizzazione Specie, Base di Conoscenza Agricola, Geolocalizzazione, Dati Satellitari, Human-in-the-Loop","How (Inputs → AI Workflow → Output)":"Input: Immagine coltura (caricata dall'utente o integrata nell'app, opzionalmente riferendosi ai dataset PlantVillage o PlantDoc) + descrizione testuale sintomi → IA: Modello vision-language (CNN + VQA) fine-tuned su corpora patologia vegetale → Output: Nome probabile malattia/parassita + protocollo trattamento raccomandato","Risk":5.0,"User Effort Reduction":5.0,"Technical Feasibility":4.0,"Network Effect":3.0,"Decision Impact":5.0},{"Use Cases":"Piattaforma Condivisione Conoscenza Inter-Aziendale","User Segment":"Titolari di Aziende Agricole, Esperti Agricoli, Operatori di Estensione, Cooperative e Gruppi","Why (Impact)":"Costruisce intelligenza collettiva attraverso cooperative o regioni; accelera l'innovazione e la resilienza a livello comunitario","Category":"Servizi Orientati alla Comunità","Features":"Geolocalizzazione, Dati Satellitari, Previsione Mercato Commodities, Previsioni Meteo, Allerta Patogeni, Base di Conoscenza Legislativa, Human-in-the-Loop","How (Inputs → AI Workflow → Output)":"Input: Contenuti generati dagli utenti (es. Q&A comunità da forum Agrilinks o GrowAsia) + repository casi studio aperti (es. CGIAR) → IA: Topic modeling non supervisionato + riassunzione basata su LLM → Output: Best practice specifiche per regione e approfondimenti peer aggregati per tema (es. adattamento siccità, risposta parassiti)","Risk":2.0,"User Effort Reduction":3.0,"Technical Feasibility":3.0,"Network Effect":5.0,"Decision Impact":3.0},{"Use Cases":"API e Database","User Segment":"Esperti Agricoli, Stakeholder Agribusiness","Why (Impact)":"Abilita app personalizzate, dashboard e modelli esponendo dati agricoli strutturati di alta qualità","Category":"Servizi Agronomici Core, Servizi Orientati alla Comunità","Features":"Base di Conoscenza Agricola, Base di Conoscenza Legislativa, Dati Satellitari, Previsione Mercato Commodities, Previsioni Meteo, Registrazione Dati","How (Inputs → AI Workflow → Output)":"Input: Dataset esterni o interni (es. statistiche colture nazionali, immagini satellitari, regole politiche) + query utente via API → AI Workflow: Mappatura schema unificato + ottimizzatore query + LLM opzionale per riassunzione → Output: Risposta machine-readable o human-readable (es. dataset JSON, report, grafico) via REST o GraphQL","Risk":0,"User Effort Reduction":0,"Technical Feasibility":0,"Network Effect":0,"Decision Impact":0}],"userTypes":[{"segment":"Titolari di Aziende Agricole","description":"Agricoltori individuali e proprietari di aziende agricole","characteristics":"Gestiscono direttamente le operazioni agricole"},{"segment":"Esperti Agricoli","description":"Professionisti in ruoli di ricerca e consulenza agricola","characteristics":"Forniscono guida scientifica e tecnica"},{"segment":"Operatori di Estensione","description":"Professionisti di supporto agricolo sul campo","characteristics":"Collegano la conoscenza tra ricerca e comunità agricole"}],"personas":[{"id":"smallholder-farmer","name":"Maria Santos","segment":"Piccoli Agricoltori","age":42,"location":"Brasile Rurale","landSize":"2,5 ettari","primaryCrop":"Mais e Fagioli","technicalLiteracy":"Bassa","challenges":["Accesso limitato alle risorse agricole","Vulnerabile ai cambiamenti climatici","Bassa alfabetizzazione digitale"],"goals":["Aumentare la resa delle colture","Ridurre i costi degli input","Migliorare la sostenibilità aziendale"],"preferredFeatures":["Interfaccia semplice e mobile-friendly","Supporto lingua locale","Basso consumo dati","Modalità offline"],"communicationPreferences":["SMS","WhatsApp","Servizi di estensione agricola locali"],"image":"assets/images/personas/smallholder-farmer.png"},{"id":"agricultural-expert","name":"Dr. James Chen","segment":"Esperti Agricoli","age":55,"location":"California, USA","specialization":"Scienza delle Colture e Agricoltura di Precisione","institution":"Università Agricola Statale","technicalLiteracy":"Alta","challenges":["Tenere il passo con i rapidi cambiamenti tecnologici","Integrare multiple fonti di dati","Tradurre la ricerca in soluzioni pratiche"],"goals":["Avanzare la ricerca agricola","Sviluppare strategie agricole basate sui dati","Supportare pratiche agricole sostenibili"],"preferredFeatures":["Visualizzazione dati avanzata","Accesso API","Dataset di ricerca completi","Approfondimenti machine learning"],"communicationPreferences":["Email professionale","Conferenze accademiche","Piattaforme collaborazione ricerca"],"image":"assets/images/personas/agricultural-expert.png"},{"id":"extension-worker","name":"Aisha Okonkwo","segment":"Operatori di Estensione","age":35,"location":"Nigeria Settentrionale","organization":"Programma di Sviluppo Agricolo Statale","technicalLiteracy":"Media","challenges":["Raggiungere comunità agricole remote","Infrastruttura tecnologica limitata","Bisogni comunicativi diversi"],"goals":["Migliorare la conoscenza degli agricoltori","Facilitare il trasferimento tecnologico","Supportare lo sviluppo agricolo comunitario"],"preferredFeatures":["Supporto multilingue","Documentazione offline","Condivisione conoscenza comunitaria","Materiali educativi facili da condividere"],"communicationPreferences":["Gruppi WhatsApp","Riunioni comunitarie","Radio locale","Materiali stampati"],"image":"assets/images/personas/extension-worker.png"}],"onboardingFlows":[{"segment":"Agricoltore","steps":[{"title":"Benvenuto in Cabbo","description":"Iniziamo con il nostro sistema di supporto alle decisioni agricole potenziato dall'IA","icon":"🌱","fields":[{"type":"text","label":"Nome Azienda","placeholder":"Inserisci il nome della tua azienda"}]},{"title":"Dettagli Azienda","description":"Raccontaci di più sulla tua operazione agricola","icon":"🚜","fields":[{"type":"number","label":"Dimensione Azienda (Ettari)","placeholder":"Inserisci la dimensione dell'azienda"},{"type":"select","label":"Coltura Principale","options":["Frumento","Mais","Riso","Soia","Altro"]}]}]}]},"legalPages":{"backToHome":"← Torna alla Home","lastUpdated":"Ultimo aggiornamento: 23/08/2025","contact":"Contatti","contactInfo":"Per domande su questa pagina, contattaci a:","privacyPolicy":{"title":"📄 Informativa sulla Privacy","description":"Cabbo rispetta la tua privacy e si impegna a proteggere i dati personali che condividi con noi. Questa Informativa sulla Privacy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando utilizzi il nostro sito web e i nostri servizi.","sections":{"dataWeCollect":{"title":"1. Dati che Raccogliamo","description":"Potremmo raccogliere i seguenti dati personali:","items":["Informazioni di contatto: come il tuo nome e indirizzo email (ad esempio, quando ti iscrivi alla nostra newsletter o richiedi l'accesso anticipato alla nostra app).","Ricerche di mercato e risposte ai sondaggi: incluse informazioni sulle tue pratiche agricole, sfide ed esigenze che fornisci volontariamente attraverso i nostri sondaggi Google Forms.","Dati tecnici: come indirizzo IP, tipo di browser e dati di utilizzo, raccolti automaticamente per la funzionalità del sito web e l'analisi."]},"purposeAndLegalBasis":{"title":"2. Scopo e Base Legale","description":"Trattiamo i tuoi dati personali solo quando abbiamo una base legale per farlo ai sensi del Regolamento Generale sulla Protezione dei Dati (GDPR):","items":["Consenso: per newsletter, programmi di accesso anticipato e questionari volontari.","Interesse legittimo: per mantenere e migliorare la funzionalità e la sicurezza del nostro sito web."]},"howWeUseData":{"title":"3. Come Utilizziamo i Tuoi Dati","description":"Potremmo utilizzare i tuoi dati per:","items":["Inviare newsletter e aggiornamenti (con il tuo consenso).","Fornire l'accesso anticipato alla nostra app.","Analizzare le risposte ai questionari per scopi di ricerca e sviluppo.","Migliorare il nostro sito web, contenuti e servizi."]},"dataSharing":{"title":"4. Condivisione dei Dati","description":"Non vendiamo i tuoi dati personali. Potremmo condividere i tuoi dati solo con:","items":["Fornitori di servizi fidati (ad esempio, servizi di consegna email, provider di hosting, Google Forms per la raccolta di dati dei sondaggi).","Autorità, se legalmente richiesto."]},"dataRetention":{"title":"6. Conservazione dei Dati","description":"Conserviamo i tuoi dati personali solo per il tempo necessario agli scopi dichiarati:","items":["Dati newsletter: fino a quando non ti disiscrivi.","Risposte ai questionari: per un massimo di 3 anni.","Log tecnici: per un massimo di 3 anni."]},"thirdPartyServices":{"title":"5. Servizi di Terze Parti","description":"Utilizziamo i seguenti servizi di terze parti per migliorare la funzionalità del nostro sito web:","items":["Google Forms: Utilizziamo Google Forms per raccogliere dati di ricerca di mercato e risposte ai sondaggi. Quando completi i nostri sondaggi, le tue risposte vengono elaborate da Google in conformità con la loro Informativa sulla Privacy. Accediamo a questi dati attraverso la piattaforma sicura di Google per scopi di analisi e ricerca.","Servizi Email: Per la consegna di newsletter e comunicazioni.","Servizi di Analisi: Per comprendere l'utilizzo del sito web e migliorare i nostri servizi."],"additionalInfo":"Questi servizi di terze parti hanno le proprie informative sulla privacy e ti incoraggiamo a consultarle. Condividiamo dati con questi servizi solo quando necessario per gli scopi specificati."},"yourRights":{"title":"7. I Tuoi Diritti","description":"Ai sensi del GDPR, hai il diritto di:","items":["Accedere, correggere o eliminare i tuoi dati personali.","Revocare il tuo consenso in qualsiasi momento.","Richiedere la portabilità dei dati.","Presentare un reclamo alla tua Autorità di Protezione dei Dati locale."],"contactInfo":"Per esercitare i tuoi diritti, contattaci a:"},"dataSecurity":{"title":"8. Sicurezza dei Dati","description":"Utilizziamo misure tecniche e organizzative appropriate per proteggere i tuoi dati personali da accesso non autorizzato, perdita o uso improprio."},"updates":{"title":"9. Aggiornamenti","description":"Potremmo aggiornare questa Informativa sulla Privacy di tanto in tanto. Qualsiasi modifica sarà pubblicata su questa pagina con una nuova data di \"Ultimo aggiornamento\"."}}},"termsOfService":{"title":"📄 Termini di Servizio","description":"Benvenuto su Cabbo! Questi Termini di Servizio (\"Termini\") regolano l'uso del nostro sito web e dei nostri servizi. Accedendo o utilizzando il nostro sito, accetti questi Termini.","sections":{"services":{"title":"1. Servizi","description":"Forniamo:","items":["Accesso a informazioni e risorse sul nostro sito web.","Iscrizione alla newsletter.","Accesso anticipato alla nostra app (quando disponibile).","Partecipazione volontaria a questionari relativi all'agricoltura."]},"userResponsibilities":{"title":"2. Responsabilità dell'Utente","description":"Utilizzando il nostro sito web, accetti di:","items":["Fornire informazioni accurate e veritiere.","Non abusare dei nostri moduli o servizi (ad esempio, spam, contenuti illegali).","Rispettare le leggi e i regolamenti applicabili."]},"intellectualProperty":{"title":"3. Proprietà Intellettuale","description":"Tutti i contenuti su questo sito web, inclusi testo, immagini e design, sono di proprietà di Cabbo a meno che non sia diversamente indicato. Non puoi copiare, riprodurre o distribuirli senza il nostro consenso scritto preventivo."},"disclaimer":{"title":"4. Disclaimer","description":"Il nostro sito web e i nostri servizi sono forniti \"così come sono\" senza garanzie di alcun tipo, espresse o implicite. Non siamo responsabili per eventuali danni derivanti dall'uso del sito web o dalla partecipazione ai nostri programmi."},"changesToServices":{"title":"5. Modifiche ai Servizi","description":"Ci riserviamo il diritto di modificare o interrompere qualsiasi parte del nostro sito web o dei nostri servizi in qualsiasi momento senza preavviso."},"termination":{"title":"6. Risoluzione","description":"Potremmo sospendere o terminare il tuo accesso se violi questi Termini o abusi dei nostri servizi."},"changesToTerms":{"title":"7. Modifiche ai Termini","description":"Potremmo aggiornare questi Termini di tanto in tanto. L'uso continuato del nostro sito web costituisce accettazione dei Termini aggiornati."},"governingLaw":{"title":"8. Legge Applicabile","description":"Questi Termini sono regolati dalle leggi dell'Italia, senza riguardo ai suoi principi di conflitto di leggi."}}},"cookiePolicy":{"title":"🍪 Informativa sui Cookie","description":"Questa Informativa sui Cookie spiega come Cabbo (\"noi\", \"nostro\" o \"ci\") utilizza i cookie e tecnologie simili sul nostro sito web.","sections":{"whatAreCookies":{"title":"1. Cosa Sono i Cookie?","description":"I cookie sono piccoli file di testo posizionati sul tuo dispositivo (computer, smartphone, tablet) quando visiti un sito web. Ci aiutano a migliorare la tua esperienza di navigazione e abilitano determinate funzionalità del sito.","additionalInfo":"I cookie possono essere:","items":["Cookie di prima parte: impostati direttamente da noi.","Cookie di terze parti: impostati da servizi esterni (ad esempio, analisi, piattaforme di marketing)."]},"typesOfCookies":{"title":"2. Tipi di Cookie che Utilizziamo","strictlyNecessary":{"title":"a) Cookie Strettamente Necessari","items":["Essenziali per il corretto funzionamento del nostro sito web (ad esempio, salvare le preferenze, garantire la sicurezza, abilitare i moduli).","Questi cookie non richiedono il tuo consenso."]},"performanceAnalytics":{"title":"b) Cookie di Prestazioni e Analisi","items":["Ci aiutano a capire come i visitatori utilizzano il nostro sito (ad esempio, statistiche del traffico, pagine più visitate).","Utilizziamo Google Analytics per questo scopo.","Questi cookie sono impostati solo con il tuo consenso."]},"marketingProfiling":{"title":"c) Cookie di Marketing e Profilazione","items":["Utilizzati per fornire comunicazioni personalizzate, come newsletter e campagne.","Utilizziamo Mailchimp per gestire le iscrizioni alla newsletter e i servizi di marketing correlati.","Questi cookie richiedono il tuo consenso esplicito."]}},"legalBasis":{"title":"3. Base Legale per il Trattamento","items":["Cookie strettamente necessari: trattati sulla base del nostro interesse legittimo per garantire la funzionalità del sito.","Cookie di analisi e marketing: trattati solo con il tuo consenso esplicito."]},"cookieTable":{"title":"4. Tabella dei Cookie","headers":{"cookieName":"Nome Cookie","provider":"Fornitore","purpose":"Scopo","duration":"Durata","type":"Tipo"}},"cookieManagement":{"title":"5. Gestione dei Cookie","description":"Quando visiti per la prima volta il nostro sito, un banner sui cookie ti chiederà di accettare, rifiutare o personalizzare le tue preferenze.","browserSettings":"Puoi anche gestire o eliminare i cookie in qualsiasi momento attraverso le impostazioni del tuo browser:","items":["Google Chrome: Gestione cookie","Mozilla Firefox: Gestione cookie","Safari: Gestione cookie","Microsoft Edge: Gestione cookie"],"note":"Se disabiliti i cookie, alcune funzionalità del sito potrebbero non funzionare correttamente."},"updates":{"title":"6. Aggiornamenti","description":"Potremmo aggiornare questa Informativa sui Cookie di tanto in tanto per riflettere cambiamenti nella tecnologia, nella legge o nelle nostre pratiche. Gli aggiornamenti saranno pubblicati su questa pagina con una nuova data di \"Ultimo aggiornamento\"."}}}},"error404":{"title":"404 - Pagina Non Trovata","description":"La pagina che stai cercando non esiste. Torna alla homepage di Cabbo.","pageTitle":"Pagina Non Trovata","subtitle":"La pagina che stai cercando non esiste","message":"Ci dispiace, non siamo riusciti a trovare la pagina che stavi cercando. Potrebbe essere stata spostata, eliminata o hai inserito un URL errato.","whatYouCanDo":{"title":"Cosa puoi fare:","items":{"checkUrl":"Controlla l'URL per eventuali errori di battitura","goBack":"Torna alla pagina precedente","visitHomepage":"Visita la nostra homepage per esplorare i nostri servizi","contactUs":"Contattaci se hai bisogno di assistenza"}},"actions":{"goHome":"Vai alla Homepage","goBack":"Torna Indietro"},"contact":{"title":"Hai Bisogno di Aiuto?","message":"Se hai difficoltà a trovare quello che stai cercando, non esitare a contattarci:"}}}
+{
+  "meta": {
+    "title": "Cabbo: Sistema di Supporto alle Decisioni Agricole Potenziato dall'IA",
+    "description": "Sistema rivoluzionario di supporto alle decisioni potenziato dall'IA che trasforma la gestione agricola",
+    "ogTitle": "Cabbo: IA per l'Agricoltura",
+    "ogDescription": "Sistema rivoluzionario di supporto alle decisioni potenziato dall'IA che trasforma la gestione agricola"
+  },
+  "navigation": {
+    "home": "Home",
+    "capabilities": "Capacità",
+    "useCases": "Casi d'Uso",
+    "personas": "I Nostri Utenti Tipo",
+    "newsletter": "Newsletter",
+    "requestEarlyAccess": "Richiedi Accesso Anticipato",
+    "backToHome": "← Torna alla Home"
+  },
+  "hero": {
+    "title": "Intelligenza Agricola Potenziata dall'IA",
+    "subtitle": "Trasformare la gestione aziendale con approfondimenti basati sui dati",
+    "requestEarlyAccess": "Richiedi Accesso Anticipato",
+    "answerSurvey": "Partecipa all'Analisi di Mercato",
+    "seeUseCases": "Vedi i Casi d'Uso"
+  },
+  "sections": {
+    "capabilities": {
+      "title": "Capacità Principali"
+    },
+    "useCases": {
+      "title": "Casi d'Uso",
+      "searchPlaceholder": "Cerca casi d'uso...",
+      "showAll": "Mostra tutto",
+      "noResults": {
+        "title": "Nessun caso d'uso trovato",
+        "subtitle": "Prova a modificare la ricerca o il filtro"
+      }
+    },
+    "personas": {
+      "title": "I Nostri Utenti Tipo"
+    },
+    "newsletter": {
+      "title": "Rimani Informato",
+      "description": "Ricevi gli ultimi aggiornamenti sulla tecnologia IA agricola di Cabbo",
+      "emailPlaceholder": "Inserisci la tua email",
+      "subscribe": "Iscriviti",
+      "mobileButton": "Iscriviti Ora"
+    }
+  },
+  "modals": {
+    "useCase": {
+      "impact": "Impatto",
+      "userSegment": "Segmento Utente",
+      "category": "Categoria",
+      "features": "Funzionalità",
+      "workflow": "Flusso di Lavoro",
+      "risk": "Rischio",
+      "userEffortReduction": "Riduzione Sforzo Utente",
+      "technicalFeasibility": "Fattibilità Tecnica"
+    },
+    "persona": {
+      "close": "×",
+      "learnMore": "Scopri di più",
+      "profile": "Profilo",
+      "age": "Età",
+      "technicalLiteracy": "Alfabetizzazione Tecnica",
+      "landSize": "Dimensione Terreno",
+      "primaryCrop": "Coltura Principale",
+      "specialization": "Specializzazione",
+      "institution": "Istituzione",
+      "organization": "Organizzazione",
+      "challenges": "Sfide",
+      "goals": "Obiettivi",
+      "preferredFeatures": "Funzionalità Preferite"
+    },
+    "onboarding": {
+      "close": "×"
+    },
+
+    "survey": {
+      "title": "Aiutaci a Comprendere le Tue Esigenze Agricole",
+      "subtitle": "Stiamo conducendo un'analisi di mercato per comprendere meglio le sfide e le esigenze degli agricoltori. Le tue intuizioni sono cruciali per sviluppare soluzioni IA efficaci.",
+      "quickSurvey": "Intervista di Analisi di Mercato",
+      "description": "Questa intervista ci aiuterà a comprendere le tue sfide agricole, le pratiche attuali e come l'IA può supportare al meglio le tue operazioni agricole.",
+      "option1Title": "Opzione 1: Completa l'Intervista in una Nuova Scheda",
+      "option1Description": "Apri la nostra intervista completa di analisi di mercato in una nuova scheda. Puoi tornare a questa pagina in qualsiasi momento.",
+      "option1Button": "Apri Intervista in Nuova Scheda",
+      "option2Title": "Opzione 2: Intervista Incorporata",
+      "option2Description": "Completa l'intervista direttamente su questa pagina senza lasciare il sito web.",
+      "option2Button": "Inizia Intervista",
+      "surveyTitle": "Intervista di Analisi di Mercato Agricolo",
+      "surveyInstructions": "Ti preghiamo di scorrere nell'area dell'intervista qui sotto per completare tutte le domande sulle tue pratiche agricole e esigenze.",
+      "backButton": "← Indietro",
+      "tip": "💡 Suggerimento: Usa la barra di scorrimento nell'area dell'intervista per navigare attraverso tutte le domande.",
+      "openInNewTab": "Apri in Nuova Scheda",
+      "close": "Chiudi",
+      "footer": "Le tue risposte sono riservate e saranno utilizzate per sviluppare soluzioni IA che affrontino realmente le esigenze degli agricoltori."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Cabbo Tutti i diritti riservati.",
+    "privacyPolicy": "Informativa sulla Privacy",
+    "termsOfService": "Termini di Servizio",
+    "cookiePolicy": "Informativa sui Cookie",
+    "contact": "Contatti"
+  },
+  "loading": {
+    "message": "Caricamento..."
+  },
+  "fallbacks": {
+    "capability": "Capacità",
+    "descriptionNotAvailable": "Descrizione non disponibile",
+    "useCase": "Caso d'Uso",
+    "notSpecified": "Non specificato"
+  },
+  "cookieBanner": {
+    "message": "Utilizziamo i cookie per migliorare la tua esperienza di navigazione, analizzare il traffico del sito e personalizzare i contenuti. Puoi accettare tutti i cookie, rifiutare quelli non essenziali o personalizzare le tue preferenze. Vedi la nostra Informativa sui Cookie.",
+    "acceptAll": "Accetta tutto",
+    "reject": "Rifiuta non essenziali",
+    "customize": "Personalizza"
+  },
+  "cookiePreferences": {
+    "title": "Preferenze Cookie",
+    "strictlyNecessary": {
+      "title": "Cookie Strettamente Necessari",
+      "description": "Questi cookie sono essenziali per il corretto funzionamento del sito web e non possono essere disabilitati."
+    },
+    "analytics": {
+      "title": "Cookie Analitici",
+      "description": "Questi cookie ci aiutano a capire come i visitatori interagiscono con il nostro sito web."
+    },
+    "marketing": {
+      "title": "Cookie di Marketing",
+      "description": "Questi cookie sono utilizzati per fornire contenuti e pubblicità personalizzati."
+    },
+    "savePreferences": "Salva Preferenze",
+    "close": "Chiudi"
+  },
+  "data": {
+    "capabilities": [
+      {
+        "name": "Agricoltura di Precisione",
+        "description": "Tecniche agricole avanzate basate sui dati utilizzando IA e immagini satellitari"
+      },
+      {
+        "name": "Monitoraggio della Salute delle Colture",
+        "description": "Tracciamento e analisi in tempo reale delle condizioni delle colture utilizzando sensori avanzati e machine learning"
+      },
+      {
+        "name": "Ottimizzazione delle Risorse",
+        "description": "Gestione intelligente di acqua, fertilizzanti e altri input agricoli"
+      }
+    ],
+    "useCases": [
+      {
+        "Use Cases": "Raccomandazioni per Input di Precisione",
+        "User Segment": "Titolari di Aziende Agricole, Esperti Agricoli",
+        "Why (Impact)": "Riduce gli sprechi di input e garantisce la conformità evitando prodotti vietati o utilizzati erroneamente",
+        "Category": "Servizi Agronomici Core",
+        "Features": "Fenotipizzazione Specie, Base di Conoscenza Agricola, Previsioni Meteo, Valutazione Suolo, Modello di Crescita Colture, Geolocalizzazione, Dati Satellitari, Base di Conoscenza Legislativa, Registrazione Dati",
+        "How (Inputs → AI Workflow → Output)": "Input: Caratteristiche del suolo (es. API USDA NRCS Soil Survey) + stadio fenologico della coltura (es. mappatura EPPO BBCH) + previsioni meteo (es. API Open-Meteo) → IA: Motore basato su regole + modello di ottimizzazione dei nutrienti specifico per coltura → Output: Tipo, dose e programma di applicazione di fertilizzanti/pesticidi personalizzati",
+        "Risk": 5.0,
+        "User Effort Reduction": 5.0,
+        "Technical Feasibility": 4.0,
+        "Network Effect": 3.0,
+        "Decision Impact": 4.0
+      },
+      {
+        "Use Cases": "Consulente Sussidi, Contributi e Certificazioni",
+        "User Segment": "Titolari di Aziende Agricole, Cooperative e Gruppi",
+        "Why (Impact)": "Aumenta l'accesso al supporto finanziario e alle certificazioni; riduce le barriere burocratiche",
+        "Category": "Guida Legale e sui Sussidi",
+        "Features": "Geolocalizzazione, Dati Satellitari, Base di Conoscenza Legislativa, Registrazione Dati",
+        "How (Inputs → AI Workflow → Output)": "Input: Geolocalizzazione e confini dell'azienda (es. API EU LPIS o sistemi GIS nazionali) + registri storici delle pratiche (es. FAOSTAT o CSV caricati dall'utente) → IA: Motore regole di idoneità + riassuntore LLM → Output: Lista di programmi rilevanti + modelli di domanda pre-compilati",
+        "Risk": 4.0,
+        "User Effort Reduction": 5.0,
+        "Technical Feasibility": 4.0,
+        "Network Effect": 3.0,
+        "Decision Impact": 3.0
+      },
+      {
+        "Use Cases": "Pianificazione Colture",
+        "User Segment": "Titolari di Aziende Agricole, Cooperative e Gruppi",
+        "Why (Impact)": "Allinea le attività con i calendari delle colture, il meteo e i mercati per ottimizzare i tempi e massimizzare la produzione",
+        "Category": "Servizi Agronomici Core, Supporto Gestione e Operazioni",
+        "Features": "Fenotipizzazione Specie, Previsione Rendimenti, Calendari Colture, Previsioni Meteo, Geolocalizzazione, Dati Satellitari, Valutazione Suolo, Registrazione Dati",
+        "How (Inputs → AI Workflow → Output)": "Input: Serie temporali NDVI colture basate su satellite (es. Sentinel-2 via API Copernicus) + calendari regionali storici (es. calendario colture FAO) + meteo locale (es. API Open-Meteo) → IA: Modello sequenziale (es. LSTM) + vincoli basati su regole → Output: Finestre raccomandate per semina, manutenzione e raccolta",
+        "Risk": 3.0,
+        "User Effort Reduction": 4.0,
+        "Technical Feasibility": 3.0,
+        "Network Effect": 4.0,
+        "Decision Impact": 4.0
+      },
+      {
+        "Use Cases": "Pianificazione Irrigazione",
+        "User Segment": "Titolari di Aziende Agricole, Cooperative e Gruppi",
+        "Why (Impact)": "Riduce gli sprechi d'acqua e lo stress da siccità personalizzando l'irrigazione in base al meteo locale, al suolo e alla fisiologia delle colture",
+        "Category": "Servizi Agronomici Core, Supporto Gestione e Operazioni",
+        "Features": "Fenotipizzazione Specie, Base di Conoscenza Agricola, Previsioni Meteo, Geolocalizzazione, Dati Satellitari, Valutazione Suolo, Modello di Crescita Colture, Base di Conoscenza Legislativa",
+        "How (Inputs → AI Workflow → Output)": "Input: Tipo di suolo e capacità di ritenzione idrica (es. API SoilGrids) + stadio della coltura (es. BBCH via EPPO) + previsioni meteo (API Open-Meteo) + tassi di evapotraspirazione (es. NASA POWER) → IA: Simulazione uso acqua colture + ottimizzatore programmazione → Output: Piano di irrigazione giornaliero o settimanale con volumi adattati alle previsioni",
+        "Risk": 4.0,
+        "User Effort Reduction": 4.0,
+        "Technical Feasibility": 3.0,
+        "Network Effect": 3.0,
+        "Decision Impact": 4.0
+      },
+      {
+        "Use Cases": "Gestore Risorse, Promemoria e Avvisi",
+        "User Segment": "Titolari di Aziende Agricole, Cooperative e Gruppi, Operatori di Estensione",
+        "Why (Impact)": "Migliora le operazioni aziendali tracciando input, lavoro e programmi, emettendo avvisi tempestivi da dati meteo, di mercato e sui parassiti",
+        "Category": "Supporto Gestione e Operazioni",
+        "Features": "Geolocalizzazione, Dati Satellitari, Previsione Mercato Commodities, Previsioni Meteo, Allerta Patogeni, Base di Conoscenza Legislativa, Registrazione Dati",
+        "How (Inputs → AI Workflow → Output)": "Input: Registri inventario (manuali, scansione OCR o log digitali via REST) + aggiornamenti prezzi commodities (es. API USDA Market News) + allerte meteo (es. Meteoalarm) + bollettini focolai parassiti (es. Database Globale EPPO) → IA: Sistema trigger guidato da eventi + programmatore attività → Output: Promemoria azioni personalizzati e allerte rischio con contesto tempestivo",
+        "Risk": 3.0,
+        "User Effort Reduction": 3.0,
+        "Technical Feasibility": 5.0,
+        "Network Effect": 5.0,
+        "Decision Impact": 5.0
+      },
+      {
+        "Use Cases": "Consulente Vendite",
+        "User Segment": "Titolari di Aziende Agricole, Cooperative e Gruppi",
+        "Why (Impact)": "Massimizza i ricavi prevedendo i picchi di prezzo e consigliando i tempi di vendita",
+        "Category": "Supporto Gestione e Operazioni",
+        "Features": "Previsione Rendimenti, Previsione Mercato Commodities, Base di Conoscenza Legislativa, Geolocalizzazione",
+        "How (Inputs → AI Workflow → Output)": "Input: Prezzi storici commodities (es. API FAO o USDA Market News) + tendenze di previsione (es. World Bank Agri Commodity Outlook) + inventario attuale (input manuale utente, scansione OCR o integrazione record) → IA: Previsione serie temporali (Prophet, LSTM) + soglie decisionali → Output: Consigli tempistica mercato (es. \"Vendi questa settimana\" con banda di confidenza)",
+        "Risk": 3.0,
+        "User Effort Reduction": 4.0,
+        "Technical Feasibility": 4.0,
+        "Network Effect": 4.0,
+        "Decision Impact": 3.0
+      },
+      {
+        "Use Cases": "Diagnosi Malattie e Parassiti",
+        "User Segment": "Titolari di Aziende Agricole, Esperti Agricoli, Operatori di Estensione, Cooperative e Gruppi",
+        "Why (Impact)": "Previene la perdita di rendimento attraverso il rilevamento e trattamento precoci",
+        "Category": "Servizi Agronomici Core",
+        "Features": "Fenotipizzazione Specie, Base di Conoscenza Agricola, Geolocalizzazione, Dati Satellitari, Human-in-the-Loop",
+        "How (Inputs → AI Workflow → Output)": "Input: Immagine coltura (caricata dall'utente o integrata nell'app, opzionalmente riferendosi ai dataset PlantVillage o PlantDoc) + descrizione testuale sintomi → IA: Modello vision-language (CNN + VQA) fine-tuned su corpora patologia vegetale → Output: Nome probabile malattia/parassita + protocollo trattamento raccomandato",
+        "Risk": 5.0,
+        "User Effort Reduction": 5.0,
+        "Technical Feasibility": 4.0,
+        "Network Effect": 3.0,
+        "Decision Impact": 5.0
+      },
+      {
+        "Use Cases": "Piattaforma Condivisione Conoscenza Inter-Aziendale",
+        "User Segment": "Titolari di Aziende Agricole, Esperti Agricoli, Operatori di Estensione, Cooperative e Gruppi",
+        "Why (Impact)": "Costruisce intelligenza collettiva attraverso cooperative o regioni; accelera l'innovazione e la resilienza a livello comunitario",
+        "Category": "Servizi Orientati alla Comunità",
+        "Features": "Geolocalizzazione, Dati Satellitari, Previsione Mercato Commodities, Previsioni Meteo, Allerta Patogeni, Base di Conoscenza Legislativa, Human-in-the-Loop",
+        "How (Inputs → AI Workflow → Output)": "Input: Contenuti generati dagli utenti (es. Q&A comunità da forum Agrilinks o GrowAsia) + repository casi studio aperti (es. CGIAR) → IA: Topic modeling non supervisionato + riassunzione basata su LLM → Output: Best practice specifiche per regione e approfondimenti peer aggregati per tema (es. adattamento siccità, risposta parassiti)",
+        "Risk": 2.0,
+        "User Effort Reduction": 3.0,
+        "Technical Feasibility": 3.0,
+        "Network Effect": 5.0,
+        "Decision Impact": 3.0
+      },
+      {
+        "Use Cases": "API e Database",
+        "User Segment": "Esperti Agricoli, Stakeholder Agribusiness",
+        "Why (Impact)": "Abilita app personalizzate, dashboard e modelli esponendo dati agricoli strutturati di alta qualità",
+        "Category": "Servizi Agronomici Core, Servizi Orientati alla Comunità",
+        "Features": "Base di Conoscenza Agricola, Base di Conoscenza Legislativa, Dati Satellitari, Previsione Mercato Commodities, Previsioni Meteo, Registrazione Dati",
+        "How (Inputs → AI Workflow → Output)": "Input: Dataset esterni o interni (es. statistiche colture nazionali, immagini satellitari, regole politiche) + query utente via API → AI Workflow: Mappatura schema unificato + ottimizzatore query + LLM opzionale per riassunzione → Output: Risposta machine-readable o human-readable (es. dataset JSON, report, grafico) via REST o GraphQL",
+        "Risk": 0,
+        "User Effort Reduction": 0,
+        "Technical Feasibility": 0,
+        "Network Effect": 0,
+        "Decision Impact": 0
+      }
+    ],
+    "userTypes": [
+      {
+        "segment": "Titolari di Aziende Agricole",
+        "description": "Agricoltori individuali e proprietari di aziende agricole",
+        "characteristics": "Gestiscono direttamente le operazioni agricole"
+      },
+      {
+        "segment": "Esperti Agricoli",
+        "description": "Professionisti in ruoli di ricerca e consulenza agricola",
+        "characteristics": "Forniscono guida scientifica e tecnica"
+      },
+      {
+        "segment": "Operatori di Estensione",
+        "description": "Professionisti di supporto agricolo sul campo",
+        "characteristics": "Collegano la conoscenza tra ricerca e comunità agricole"
+      }
+    ],
+    "personas": [
+      {
+        "id": "smallholder-farmer",
+        "name": "Maria Santos",
+        "segment": "Piccoli Agricoltori",
+        "age": 42,
+        "location": "Brasile Rurale",
+        "landSize": "2,5 ettari",
+        "primaryCrop": "Mais e Fagioli",
+        "technicalLiteracy": "Bassa",
+        "challenges": [
+          "Accesso limitato alle risorse agricole",
+          "Vulnerabile ai cambiamenti climatici",
+          "Bassa alfabetizzazione digitale"
+        ],
+        "goals": [
+          "Aumentare la resa delle colture",
+          "Ridurre i costi degli input",
+          "Migliorare la sostenibilità aziendale"
+        ],
+        "preferredFeatures": [
+          "Interfaccia semplice e mobile-friendly",
+          "Supporto lingua locale",
+          "Basso consumo dati",
+          "Modalità offline"
+        ],
+        "communicationPreferences": [
+          "SMS",
+          "WhatsApp",
+          "Servizi di estensione agricola locali"
+        ],
+        "image": "assets/images/personas/smallholder-farmer.png"
+      },
+      {
+        "id": "agricultural-expert",
+        "name": "Dr. James Chen",
+        "segment": "Esperti Agricoli",
+        "age": 55,
+        "location": "California, USA",
+        "specialization": "Scienza delle Colture e Agricoltura di Precisione",
+        "institution": "Università Agricola Statale",
+        "technicalLiteracy": "Alta",
+        "challenges": [
+          "Tenere il passo con i rapidi cambiamenti tecnologici",
+          "Integrare multiple fonti di dati",
+          "Tradurre la ricerca in soluzioni pratiche"
+        ],
+        "goals": [
+          "Avanzare la ricerca agricola",
+          "Sviluppare strategie agricole basate sui dati",
+          "Supportare pratiche agricole sostenibili"
+        ],
+        "preferredFeatures": [
+          "Visualizzazione dati avanzata",
+          "Accesso API",
+          "Dataset di ricerca completi",
+          "Approfondimenti machine learning"
+        ],
+        "communicationPreferences": [
+          "Email professionale",
+          "Conferenze accademiche",
+          "Piattaforme collaborazione ricerca"
+        ],
+        "image": "assets/images/personas/agricultural-expert.png"
+      },
+      {
+        "id": "extension-worker",
+        "name": "Aisha Okonkwo",
+        "segment": "Operatori di Estensione",
+        "age": 35,
+        "location": "Nigeria Settentrionale",
+        "organization": "Programma di Sviluppo Agricolo Statale",
+        "technicalLiteracy": "Media",
+        "challenges": [
+          "Raggiungere comunità agricole remote",
+          "Infrastruttura tecnologica limitata",
+          "Bisogni comunicativi diversi"
+        ],
+        "goals": [
+          "Migliorare la conoscenza degli agricoltori",
+          "Facilitare il trasferimento tecnologico",
+          "Supportare lo sviluppo agricolo comunitario"
+        ],
+        "preferredFeatures": [
+          "Supporto multilingue",
+          "Documentazione offline",
+          "Condivisione conoscenza comunitaria",
+          "Materiali educativi facili da condividere"
+        ],
+        "communicationPreferences": [
+          "Gruppi WhatsApp",
+          "Riunioni comunitarie",
+          "Radio locale",
+          "Materiali stampati"
+        ],
+        "image": "assets/images/personas/extension-worker.png"
+      }
+    ],
+    "onboardingFlows": [
+      {
+        "segment": "Agricoltore",
+        "steps": [
+          {
+            "title": "Benvenuto in Cabbo",
+            "description": "Iniziamo con il nostro sistema di supporto alle decisioni agricole potenziato dall'IA",
+            "icon": "🌱",
+            "fields": [
+              {
+                "type": "text",
+                "label": "Nome Azienda",
+                "placeholder": "Inserisci il nome della tua azienda"
+              }
+            ]
+          },
+          {
+            "title": "Dettagli Azienda",
+            "description": "Raccontaci di più sulla tua operazione agricola",
+            "icon": "🚜",
+            "fields": [
+              {
+                "type": "number",
+                "label": "Dimensione Azienda (Ettari)",
+                "placeholder": "Inserisci la dimensione dell'azienda"
+              },
+              {
+                "type": "select",
+                "label": "Coltura Principale",
+                "options": ["Frumento", "Mais", "Riso", "Soia", "Altro"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "legalPages": {
+    "backToHome": "← Torna alla Home",
+    "lastUpdated": "Ultimo aggiornamento: 23/08/2025",
+    "contact": "Contatti",
+    "contactInfo": "Per domande su questa pagina, contattaci a:",
+    "privacyPolicy": {
+      "title": "📄 Informativa sulla Privacy",
+      "description": "Cabbo rispetta la tua privacy e si impegna a proteggere i dati personali che condividi con noi. Questa Informativa sulla Privacy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando utilizzi il nostro sito web e i nostri servizi.",
+      "sections": {
+        "dataWeCollect": {
+          "title": "1. Dati che Raccogliamo",
+          "description": "Potremmo raccogliere i seguenti dati personali:",
+          "items": [
+            "Informazioni di contatto: come il tuo nome e indirizzo email (ad esempio, quando ti iscrivi alla nostra newsletter o richiedi l'accesso anticipato alla nostra app).",
+            "Ricerche di mercato e risposte ai sondaggi: incluse informazioni sulle tue pratiche agricole, sfide ed esigenze che fornisci volontariamente attraverso i nostri sondaggi Google Forms.",
+            "Dati tecnici: come indirizzo IP, tipo di browser e dati di utilizzo, raccolti automaticamente per la funzionalità del sito web e l'analisi."
+          ]
+        },
+        "purposeAndLegalBasis": {
+          "title": "2. Scopo e Base Legale",
+          "description": "Trattiamo i tuoi dati personali solo quando abbiamo una base legale per farlo ai sensi del Regolamento Generale sulla Protezione dei Dati (GDPR):",
+          "items": [
+            "Consenso: per newsletter, programmi di accesso anticipato e questionari volontari.",
+            "Interesse legittimo: per mantenere e migliorare la funzionalità e la sicurezza del nostro sito web."
+          ]
+        },
+        "howWeUseData": {
+          "title": "3. Come Utilizziamo i Tuoi Dati",
+          "description": "Potremmo utilizzare i tuoi dati per:",
+          "items": [
+            "Inviare newsletter e aggiornamenti (con il tuo consenso).",
+            "Fornire l'accesso anticipato alla nostra app.",
+            "Analizzare le risposte ai questionari per scopi di ricerca e sviluppo.",
+            "Migliorare il nostro sito web, contenuti e servizi."
+          ]
+        },
+        "dataSharing": {
+          "title": "4. Condivisione dei Dati",
+          "description": "Non vendiamo i tuoi dati personali. Potremmo condividere i tuoi dati solo con:",
+          "items": [
+            "Fornitori di servizi fidati (ad esempio, servizi di consegna email, provider di hosting, Google Forms per la raccolta di dati dei sondaggi).",
+            "Autorità, se legalmente richiesto."
+          ]
+        },
+        "dataRetention": {
+          "title": "6. Conservazione dei Dati",
+          "description": "Conserviamo i tuoi dati personali solo per il tempo necessario agli scopi dichiarati:",
+          "items": [
+            "Dati newsletter: fino a quando non ti disiscrivi.",
+            "Risposte ai questionari: per un massimo di 3 anni.",
+            "Log tecnici: per un massimo di 3 anni."
+          ]
+        },
+        "thirdPartyServices": {
+          "title": "5. Servizi di Terze Parti",
+          "description": "Utilizziamo i seguenti servizi di terze parti per migliorare la funzionalità del nostro sito web:",
+          "items": [
+            "Google Forms: Utilizziamo Google Forms per raccogliere dati di ricerca di mercato e risposte ai sondaggi. Quando completi i nostri sondaggi, le tue risposte vengono elaborate da Google in conformità con la loro Informativa sulla Privacy. Accediamo a questi dati attraverso la piattaforma sicura di Google per scopi di analisi e ricerca.",
+            "Servizi Email: Per la consegna di newsletter e comunicazioni.",
+            "Servizi di Analisi: Per comprendere l'utilizzo del sito web e migliorare i nostri servizi."
+          ],
+          "additionalInfo": "Questi servizi di terze parti hanno le proprie informative sulla privacy e ti incoraggiamo a consultarle. Condividiamo dati con questi servizi solo quando necessario per gli scopi specificati."
+        },
+        "yourRights": {
+          "title": "7. I Tuoi Diritti",
+          "description": "Ai sensi del GDPR, hai il diritto di:",
+          "items": [
+            "Accedere, correggere o eliminare i tuoi dati personali.",
+            "Revocare il tuo consenso in qualsiasi momento.",
+            "Richiedere la portabilità dei dati.",
+            "Presentare un reclamo alla tua Autorità di Protezione dei Dati locale."
+          ],
+          "contactInfo": "Per esercitare i tuoi diritti, contattaci a:"
+        },
+        "dataSecurity": {
+          "title": "8. Sicurezza dei Dati",
+          "description": "Utilizziamo misure tecniche e organizzative appropriate per proteggere i tuoi dati personali da accesso non autorizzato, perdita o uso improprio."
+        },
+        "updates": {
+          "title": "9. Aggiornamenti",
+          "description": "Potremmo aggiornare questa Informativa sulla Privacy di tanto in tanto. Qualsiasi modifica sarà pubblicata su questa pagina con una nuova data di \"Ultimo aggiornamento\"."
+        }
+      }
+    },
+    "termsOfService": {
+      "title": "📄 Termini di Servizio",
+      "description": "Benvenuto su Cabbo! Questi Termini di Servizio (\"Termini\") regolano l'uso del nostro sito web e dei nostri servizi. Accedendo o utilizzando il nostro sito, accetti questi Termini.",
+      "sections": {
+        "services": {
+          "title": "1. Servizi",
+          "description": "Forniamo:",
+          "items": [
+            "Accesso a informazioni e risorse sul nostro sito web.",
+            "Iscrizione alla newsletter.",
+            "Accesso anticipato alla nostra app (quando disponibile).",
+            "Partecipazione volontaria a questionari relativi all'agricoltura."
+          ]
+        },
+        "userResponsibilities": {
+          "title": "2. Responsabilità dell'Utente",
+          "description": "Utilizzando il nostro sito web, accetti di:",
+          "items": [
+            "Fornire informazioni accurate e veritiere.",
+            "Non abusare dei nostri moduli o servizi (ad esempio, spam, contenuti illegali).",
+            "Rispettare le leggi e i regolamenti applicabili."
+          ]
+        },
+        "intellectualProperty": {
+          "title": "3. Proprietà Intellettuale",
+          "description": "Tutti i contenuti su questo sito web, inclusi testo, immagini e design, sono di proprietà di Cabbo a meno che non sia diversamente indicato. Non puoi copiare, riprodurre o distribuirli senza il nostro consenso scritto preventivo."
+        },
+        "disclaimer": {
+          "title": "4. Disclaimer",
+          "description": "Il nostro sito web e i nostri servizi sono forniti \"così come sono\" senza garanzie di alcun tipo, espresse o implicite. Non siamo responsabili per eventuali danni derivanti dall'uso del sito web o dalla partecipazione ai nostri programmi."
+        },
+        "changesToServices": {
+          "title": "5. Modifiche ai Servizi",
+          "description": "Ci riserviamo il diritto di modificare o interrompere qualsiasi parte del nostro sito web o dei nostri servizi in qualsiasi momento senza preavviso."
+        },
+        "termination": {
+          "title": "6. Risoluzione",
+          "description": "Potremmo sospendere o terminare il tuo accesso se violi questi Termini o abusi dei nostri servizi."
+        },
+        "changesToTerms": {
+          "title": "7. Modifiche ai Termini",
+          "description": "Potremmo aggiornare questi Termini di tanto in tanto. L'uso continuato del nostro sito web costituisce accettazione dei Termini aggiornati."
+        },
+        "governingLaw": {
+          "title": "8. Legge Applicabile",
+          "description": "Questi Termini sono regolati dalle leggi dell'Italia, senza riguardo ai suoi principi di conflitto di leggi."
+        }
+      }
+    },
+    "cookiePolicy": {
+      "title": "🍪 Informativa sui Cookie",
+      "description": "Questa Informativa sui Cookie spiega come Cabbo (\"noi\", \"nostro\" o \"ci\") utilizza i cookie e tecnologie simili sul nostro sito web.",
+      "sections": {
+        "whatAreCookies": {
+          "title": "1. Cosa Sono i Cookie?",
+          "description": "I cookie sono piccoli file di testo posizionati sul tuo dispositivo (computer, smartphone, tablet) quando visiti un sito web. Ci aiutano a migliorare la tua esperienza di navigazione e abilitano determinate funzionalità del sito.",
+          "additionalInfo": "I cookie possono essere:",
+          "items": [
+            "Cookie di prima parte: impostati direttamente da noi.",
+            "Cookie di terze parti: impostati da servizi esterni (ad esempio, analisi, piattaforme di marketing)."
+          ]
+        },
+        "typesOfCookies": {
+          "title": "2. Tipi di Cookie che Utilizziamo",
+          "strictlyNecessary": {
+            "title": "a) Cookie Strettamente Necessari",
+            "items": [
+              "Essenziali per il corretto funzionamento del nostro sito web (ad esempio, salvare le preferenze, garantire la sicurezza, abilitare i moduli).",
+              "Questi cookie non richiedono il tuo consenso."
+            ]
+          },
+          "performanceAnalytics": {
+            "title": "b) Cookie di Prestazioni e Analisi",
+            "items": [
+              "Ci aiutano a capire come i visitatori utilizzano il nostro sito (ad esempio, statistiche del traffico, pagine più visitate).",
+              "Utilizziamo Google Analytics per questo scopo.",
+              "Questi cookie sono impostati solo con il tuo consenso."
+            ]
+          },
+          "marketingProfiling": {
+            "title": "c) Cookie di Marketing e Profilazione",
+            "items": [
+              "Utilizzati per fornire comunicazioni personalizzate, come newsletter e campagne.",
+              "Utilizziamo Mailchimp per gestire le iscrizioni alla newsletter e i servizi di marketing correlati.",
+              "Questi cookie richiedono il tuo consenso esplicito."
+            ]
+          }
+        },
+        "legalBasis": {
+          "title": "3. Base Legale per il Trattamento",
+          "items": [
+            "Cookie strettamente necessari: trattati sulla base del nostro interesse legittimo per garantire la funzionalità del sito.",
+            "Cookie di analisi e marketing: trattati solo con il tuo consenso esplicito."
+          ]
+        },
+        "cookieTable": {
+          "title": "4. Tabella dei Cookie",
+          "headers": {
+            "cookieName": "Nome Cookie",
+            "provider": "Fornitore",
+            "purpose": "Scopo",
+            "duration": "Durata",
+            "type": "Tipo"
+          }
+        },
+        "cookieManagement": {
+          "title": "5. Gestione dei Cookie",
+          "description": "Quando visiti per la prima volta il nostro sito, un banner sui cookie ti chiederà di accettare, rifiutare o personalizzare le tue preferenze.",
+          "browserSettings": "Puoi anche gestire o eliminare i cookie in qualsiasi momento attraverso le impostazioni del tuo browser:",
+          "items": [
+            "Google Chrome: Gestione cookie",
+            "Mozilla Firefox: Gestione cookie",
+            "Safari: Gestione cookie",
+            "Microsoft Edge: Gestione cookie"
+          ],
+          "note": "Se disabiliti i cookie, alcune funzionalità del sito potrebbero non funzionare correttamente."
+        },
+        "updates": {
+          "title": "6. Aggiornamenti",
+          "description": "Potremmo aggiornare questa Informativa sui Cookie di tanto in tanto per riflettere cambiamenti nella tecnologia, nella legge o nelle nostre pratiche. Gli aggiornamenti saranno pubblicati su questa pagina con una nuova data di \"Ultimo aggiornamento\"."
+        }
+      }
+    }
+  },
+  "error404": {
+    "title": "404 - Pagina Non Trovata",
+    "description": "La pagina che stai cercando non esiste. Torna alla homepage di Cabbo.",
+    "pageTitle": "Pagina Non Trovata",
+    "subtitle": "La pagina che stai cercando non esiste",
+    "message": "Ci dispiace, non siamo riusciti a trovare la pagina che stavi cercando. Potrebbe essere stata spostata, eliminata o hai inserito un URL errato.",
+    "whatYouCanDo": {
+      "title": "Cosa puoi fare:",
+      "items": {
+        "checkUrl": "Controlla l'URL per eventuali errori di battitura",
+        "goBack": "Torna alla pagina precedente",
+        "visitHomepage": "Visita la nostra homepage per esplorare i nostri servizi",
+        "contactUs": "Contattaci se hai bisogno di assistenza"
+      }
+    },
+    "actions": {
+      "goHome": "Vai alla Homepage",
+      "goBack": "Torna Indietro"
+    },
+    "contact": {
+      "title": "Hai Bisogno di Aiuto?",
+      "message": "Se hai difficoltà a trovare quello che stai cercando, non esitare a contattarci:"
+    }
+  }
+}
