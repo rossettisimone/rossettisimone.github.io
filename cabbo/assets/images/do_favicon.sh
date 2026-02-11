@@ -1,0 +1,1 @@
+cd /home/simone/workdir/app/assets/images && convert -background transparent cabbo-logo.svg -define icon:auto-resize favicon.ico

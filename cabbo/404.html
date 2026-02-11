@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 - Page Not Found - Cabbo: AI-Powered Agricultural Decision Support System</title>
+    <meta name="description" content="The page you're looking for doesn't exist. Return to Cabbo's homepage.">
+    
+    <!-- Tailwind CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    
+    <!-- Custom Styles -->
+    <link rel="stylesheet" href="assets/output.css?v=20">
+    
+    <!-- i18n Scripts -->
+    <script src="assets/i18n.js?v=20"></script>
+    <script src="assets/404-i18n.js?v=20"></script>
+    <script src="assets/parallax.js?v=20"></script>
+</head>
+<body class="bg-brand-offwhite text-brand-charcoal font-sans">
+    <!-- Loading Screen -->
+    <div id="loading-screen" class="fixed inset-0 bg-brand-offwhite z-[9999] flex items-center justify-center">
+        <div class="text-center">
+            <div class="animate-spin mb-4">
+                <img src="assets/images/cabbo-logo.svg" alt="Cabbo Logo" class="w-16 h-16 mx-auto">
+            </div>
+            <p class="text-brand-charcoal text-lg font-semibold" data-i18n="loading.message">Loading...</p>
+        </div>
+    </div>
+    <!-- Navigation -->
+    <nav class="fixed top-0 left-0 right-0 bg-white bg-opacity-95 backdrop-blur-sm z-50 border-b border-brand-sage">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <!-- Logo -->
+                <div class="flex items-center">
+                    <a href="index.html" class="flex items-center">
+                        <img src="assets/images/cabbo-name.svg" alt="Cabbo Logo" style="height: 20px; margin-right:10px; margin-top:5px;">
+                    </a>
+                </div>
+
+                <!-- Language Switcher -->
+                <div class="relative">
+                    <button id="language-switcher" class="flex items-center space-x-2 px-4 py-2 rounded-lg hover:bg-brand-sage hover:bg-opacity-10 transition-colors duration-300">
+                        <span id="current-language">EN</span>
+                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                        </svg>
+                    </button>
+                    <div id="language-dropdown" class="absolute right-0 mt-2 w-32 bg-white border border-brand-sage rounded-lg shadow-lg hidden z-50">
+                        <div class="language-option py-2 px-4 hover:bg-brand-sage hover:bg-opacity-10 cursor-pointer" data-lang="en">
+                            English
+                        </div>
+                        <div class="language-option py-2 px-4 hover:bg-brand-sage hover:bg-opacity-10 cursor-pointer" data-lang="it">
+                            Italiano
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="container mx-auto px-4 pt-16">
+        <div class="max-w-4xl mx-auto bg-white rounded-2xl shadow-lg p-8 text-center">
+            <!-- 404 Icon -->
+            <div class="mb-8">
+                <div class="text-8xl font-bold text-brand-green mb-4">404</div>
+                <div class="text-2xl font-semibold text-brand-charcoal mb-2" data-i18n="error404.pageTitle">Page Not Found</div>
+                <div class="text-brand-sage" data-i18n="error404.subtitle">The page you're looking for doesn't exist</div>
+            </div>
+
+            <!-- Error Message -->
+            <div class="prose prose-lg max-w-none mb-8">
+                <p class="text-lg text-brand-charcoal mb-6" data-i18n="error404.message">
+                    Sorry, we couldn't find the page you were looking for. It might have been moved, deleted, or you entered the wrong URL.
+                </p>
+                
+                <div class="bg-brand-sage bg-opacity-10 p-6 rounded-xl mb-8">
+                    <h3 class="text-xl font-bold text-brand-green mb-4" data-i18n="error404.whatYouCanDo.title">What you can do:</h3>
+                    <ul class="list-disc list-inside space-y-2 text-left">
+                        <li data-i18n="error404.whatYouCanDo.items.checkUrl">Check the URL for any typos</li>
+                        <li data-i18n="error404.whatYouCanDo.items.goBack">Go back to the previous page</li>
+                        <li data-i18n="error404.whatYouCanDo.items.visitHomepage">Visit our homepage to explore our services</li>
+                        <li data-i18n="error404.whatYouCanDo.items.contactUs">Contact us if you need assistance</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Action Buttons -->
+            <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                <button onclick="history.back()" class="bg-brand-sage text-white px-8 py-3 rounded-xl hover:bg-sage-700 transition-colors duration-300 font-semibold" data-i18n="error404.actions.goBack">
+                    Go Back
+                </button>
+            </div>
+
+            <!-- Contact Section -->
+            <div class="mt-12 bg-brand-sage bg-opacity-10 p-6 rounded-xl">
+                <h3 class="text-xl font-bold text-brand-green mb-2" data-i18n="error404.contact.title">Need Help?</h3>
+                <p class="mb-4" data-i18n="error404.contact.message">If you're having trouble finding what you're looking for, feel free to contact us:</p>
+                <p><a href="https://rossettisimone.github.io/cabbo" class="text-brand-green hover:underline">Cabbo</a> – <a href="mailto:support@example.com" class="text-brand-green hover:underline">support@example.com</a></p>
+            </div>
+        </div>
+    </main>
+
+    <div class="bg-white" width="100%">
+    <footer class="container mx-auto px-4 py-8 mt-16 text-center">
+        <div class="flex flex-col sm:flex-row justify-center items-center mb-4">
+            <img src="assets/images/cabbo-deepplants.svg" alt="Cabbo Logo" style="height:16px; margin-bottom:8px; margin-top:3px;" class="sm:mr-3 sm:mb-0">
+            <p class="text-brand-charcoal" data-i18n="footer.copyright">&copy; 2025 Cabbo All rights reserved.</p>
+        </div>
+        <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+            <a href="privacy-policy.html" class="text-brand-sage hover:text-brand-green" data-i18n="footer.privacyPolicy">Privacy Policy</a>
+            <a href="terms-of-service.html" class="text-brand-sage hover:text-brand-green" data-i18n="footer.termsOfService">Terms of Service</a>
+            <a href="cookie-policy.html" class="text-brand-sage hover:text-brand-green" data-i18n="footer.cookiePolicy">Cookie Policy</a>
+            <a href="mailto:support@example.com" class="text-brand-sage hover:text-brand-green" data-i18n="footer.contact">Contact</a>
+        </div>
+    </footer>    
+    </div>
+
+    <script src="assets/i18n.js?v=20"></script>
+    <script src="assets/script.js?v=20"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+{
+    "onboardingFlows": [
+        {
+            "segment": "Farmer",
+            "steps": [
+                {
+                    "title": "Welcome to Cabbo",
+                    "description": "Let's get you started with our AI-powered agricultural decision support system",
+                    "icon": "🌱",
+                    "fields": [
+                        {
+                            "type": "text",
+                            "label": "Farm Name",
+                            "placeholder": "Enter your farm name"
+                        }
+                    ]
+                },
+                {
+                    "title": "Farm Details",
+                    "description": "Tell us more about your agricultural operation",
+                    "icon": "🚜",
+                    "fields": [
+                        {
+                            "type": "number",
+                            "label": "Farm Size (Hectares)",
+                            "placeholder": "Enter farm size"
+                        },
+                        {
+                            "type": "select",
+                            "label": "Primary Crop",
+                            "options": ["Wheat", "Corn", "Rice", "Soybeans", "Other"]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+} 
