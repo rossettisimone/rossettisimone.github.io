@@ -43,5 +43,5 @@ jobs:
         uses: lycheeverse/lychee-action@v2.0.2
         with:
           fail: true
-          # only check local links
-          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --verbose --no-progress '_site/**/*.html'
+          # only check local links; exclude cabbo (static sub-site with its own assets, remap would break its links)
+          args: --offline --remap '_site(/?.*)/assets/(.*) _site/assets/$2' --exclude-path '_site/cabbo' --verbose --no-progress '_site/**/*.html'
