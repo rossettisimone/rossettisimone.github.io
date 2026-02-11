@@ -149,6 +149,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-cabbo",
+          title: 'Cabbo',
+          description: "AI-Powered Agricultural Decision Support System (formerly deepplants.com)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cabbo/";
             },},{
         id: 'social-cv',
         title: 'CV',
