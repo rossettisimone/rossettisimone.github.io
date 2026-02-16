@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Curriculum vitae (PDF download available above).",
+          description: "Applied Scientist / Research Engineer — Multimodal &amp; Foundation Models · Research-to-System Translation. Curriculum vitae (PDF download available above).",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
