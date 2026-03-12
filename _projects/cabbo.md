@@ -8,6 +8,6 @@ importance: 1
 category: work
 ---
 
-Cabbo is an AI-powered agricultural decision support system developed by DeepPlants.
+Cabbo is an AI-powered agricultural decision support system developed at DeepPlants (until early 2025).
 
 **[Visit the Cabbo website →](/cabbo/)**
