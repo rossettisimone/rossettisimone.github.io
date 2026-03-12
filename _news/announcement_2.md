@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CABBO applying to COSMIC and SmarTerra open calls
-date: 2025-03-01 12:00:00+0200
+date: 2025-10-01 12:00:00+0200
 inline: false
 related_posts: false
 ---
