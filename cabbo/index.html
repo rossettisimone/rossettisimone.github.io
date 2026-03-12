@@ -35,105 +35,106 @@
             <p class="text-brand-charcoal text-lg font-semibold" data-i18n="loading.message">Loading...</p>
         </div>
     </div>
-    <div class="bg-white fixed top-0 left-0 right-0 z-50" width="100%"">
-    <header class=" container mx-auto px-4 py-8 bg-white">
-        <nav class="flex justify-between items-center">
-            <div class="flex items-center">
-                <img src="/cabbo/assets/images/cabbo-name.svg" alt="Cabbo Logo"
-                    style="height: 20px; margin-right:10px; margin-top:5px;" class="mr-3">
-                <!-- <img src="/cabbo/assets/images/cabbo-logo.svg" alt="Cabbo Logo" class="h-8 w-8 mr-3"> -->
-                <!-- <span class="text-2xl font-bold text-brand-green">Cabbo</span> -->
-            </div>
+    <div class="bg-white fixed top-0 left-0 right-0 z-50" width="100%">
+        <header class=" container mx-auto px-4 py-8 bg-white">
+            <nav class="flex justify-between items-center">
+                <div class="flex items-center">
+                    <img src="/cabbo/assets/images/cabbo-name.svg" alt="Cabbo Logo"
+                        style="height: 20px; margin-right:10px; margin-top:5px;" class="mr-3">
+                    <!-- <img src="/cabbo/assets/images/cabbo-logo.svg" alt="Cabbo Logo" class="h-8 w-8 mr-3"> -->
+                    <!-- <span class="text-2xl font-bold text-brand-green">Cabbo</span> -->
+                </div>
 
-            <!-- Desktop Navigation -->
-            <div class="hidden xl:flex items-center space-x-6">
-                <a href="#hero"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
-                    data-i18n="navigation.home">Home</a>
-                <a href="#capabilities"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
-                    data-i18n="navigation.capabilities">Capabilities</a>
-                <a href="#use-cases"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
-                    data-i18n="navigation.useCases">Use
-                    Cases</a>
-                <a href="#personas"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
-                    data-i18n="navigation.personas">Our
-                    Users</a>
-                <a href="#newsletter"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
-                    data-i18n="navigation.newsletter">Newsletter</a>
+                <!-- Desktop Navigation -->
+                <div class="hidden xl:flex items-center space-x-6">
+                    <a href="#hero"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
+                        data-i18n="navigation.home">Home</a>
+                    <a href="#capabilities"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
+                        data-i18n="navigation.capabilities">Capabilities</a>
+                    <a href="#use-cases"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
+                        data-i18n="navigation.useCases">Use
+                        Cases</a>
+                    <a href="#personas"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
+                        data-i18n="navigation.personas">Our
+                        Users</a>
+                    <a href="#newsletter"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 whitespace-nowrap"
+                        data-i18n="navigation.newsletter">Newsletter</a>
 
-                <button class="bg-brand-green text-white px-4 py-2 rounded-xl whitespace-nowrap"
-                    data-action="request-early-access" data-i18n="navigation.requestEarlyAccess">Request Early
-                    Access</button>
-            </div>
+                    <button class="bg-brand-green text-white px-4 py-2 rounded-xl whitespace-nowrap"
+                        data-action="request-early-access" data-i18n="navigation.requestEarlyAccess">Request Early
+                        Access</button>
+                </div>
 
-            <!-- Right Side Navigation (Language + Mobile Menu) -->
-            <div class="flex items-center space-x-4">
-                <!-- Language Switcher -->
-                <div class="relative">
-                    <button id="language-switcher"
-                        class="flex items-center space-x-2 text-brand-charcoal hover:text-brand-green transition-colors duration-300">
-                        <span id="current-language">EN</span>
-                        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7">
-                            </path>
-                        </svg>
-                    </button>
-                    <div id="language-dropdown"
-                        class="absolute right-0 mt-2 w-32 bg-white border border-gray-200 rounded-xl shadow-lg hidden z-50">
-                        <button
-                            class="language-option w-full text-left px-4 py-2 hover:bg-brand-offwhite transition-colors duration-200"
-                            data-lang="en">English</button>
-                        <button
-                            class="language-option w-full text-left px-4 py-2 hover:bg-brand-offwhite transition-colors duration-200"
-                            data-lang="it">Italiano</button>
+                <!-- Right Side Navigation (Language + Mobile Menu) -->
+                <div class="flex items-center space-x-4">
+                    <!-- Language Switcher -->
+                    <div class="relative">
+                        <button id="language-switcher"
+                            class="flex items-center space-x-2 text-brand-charcoal hover:text-brand-green transition-colors duration-300">
+                            <span id="current-language">EN</span>
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7">
+                                </path>
+                            </svg>
+                        </button>
+                        <div id="language-dropdown"
+                            class="absolute right-0 mt-2 w-32 bg-white border border-gray-200 rounded-xl shadow-lg hidden z-50">
+                            <button
+                                class="language-option w-full text-left px-4 py-2 hover:bg-brand-offwhite transition-colors duration-200"
+                                data-lang="en">English</button>
+                            <button
+                                class="language-option w-full text-left px-4 py-2 hover:bg-brand-offwhite transition-colors duration-200"
+                                data-lang="it">Italiano</button>
+                        </div>
+                    </div>
+
+                    <!-- Mobile Menu Toggle -->
+                    <div class="xl:hidden">
+                        <button id="mobile-menu-toggle"
+                            class="text-brand-charcoal hover:text-brand-green transition-colors duration-300">
+                            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16M4 18h16"></path>
+                            </svg>
+                        </button>
                     </div>
                 </div>
+            </nav>
 
-                <!-- Mobile Menu Toggle -->
-                <div class="xl:hidden">
-                    <button id="mobile-menu-toggle"
-                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300">
-                        <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                                d="M4 6h16M4 12h16M4 18h16"></path>
-                        </svg>
-                    </button>
+            <!-- Mobile Menu -->
+            <div id="mobile-menu"
+                class="xl:hidden hidden bg-white border-t border-gray-200 mt-4 py-4 transform transition-all duration-500 ease-out -translate-y-full">
+                <div class="flex flex-col space-y-4 items-center">
+                    <a href="#hero"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
+                        data-i18n="navigation.home">Home</a>
+                    <a href="#capabilities"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
+                        data-i18n="navigation.capabilities">Capabilities</a>
+                    <a href="#use-cases"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
+                        data-i18n="navigation.useCases">Use
+                        Cases</a>
+                    <a href="#personas"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
+                        data-i18n="navigation.personas">Our
+                        Users</a>
+                    <a href="#newsletter"
+                        class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
+                        data-i18n="navigation.newsletter">Newsletter</a>
+
+
+
+                    <button class="bg-brand-green text-white px-6 py-2 rounded-xl" data-action="request-early-access"
+                        data-i18n="navigation.requestEarlyAccess">Request Early Access</button>
                 </div>
             </div>
-        </nav>
-
-        <!-- Mobile Menu -->
-        <div id="mobile-menu"
-            class="xl:hidden hidden bg-white border-t border-gray-200 mt-4 py-4 transform transition-all duration-500 ease-out -translate-y-full">
-            <div class="flex flex-col space-y-4 items-center">
-                <a href="#hero"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
-                    data-i18n="navigation.home">Home</a>
-                <a href="#capabilities"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
-                    data-i18n="navigation.capabilities">Capabilities</a>
-                <a href="#use-cases"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
-                    data-i18n="navigation.useCases">Use
-                    Cases</a>
-                <a href="#personas"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
-                    data-i18n="navigation.personas">Our
-                    Users</a>
-                <a href="#newsletter"
-                    class="text-brand-charcoal hover:text-brand-green transition-colors duration-300 px-4 py-2"
-                    data-i18n="navigation.newsletter">Newsletter</a>
-
-
-
-                <button class="bg-brand-green text-white px-6 py-2 rounded-xl" data-action="request-early-access"
-                    data-i18n="navigation.requestEarlyAccess">Request Early Access</button>
-            </div>
-        </div>
         </header>
     </div>
 
@@ -141,8 +142,8 @@
         <!-- Hero Section -->
         <section id="hero" class="text-center ml-4 mr-4 py-8">
             <div class="flex justify-center mt-4 sm:mt-6 md:mt-8 py-4 sm:py-6 md:py-8">
-                <img src="/cabbo/assets/images/cabbo-deepplants.svg" style="width:80%; max-width: 1024px; min-width: 256px;"
-                    alt="Cabbo">
+                <img src="/cabbo/assets/images/cabbo-deepplants.svg"
+                    style="width:80%; max-width: 1024px; min-width: 256px;" alt="Cabbo">
             </div>
             <h1 class="text-4xl font-bold text-brand-green mb-4" data-i18n="hero.title">AI-Powered Agricultural
                 Intelligence</h1>
@@ -159,8 +160,8 @@
                     data-action="see-use-cases" data-i18n="hero.seeUseCases">See Use Cases</button>
             </div>
             <div class="py-4 sm:py-6 md:py-8 flex w-full mt-8 sm:mt-12 md:mt-16 justify-center">
-                <img src="/cabbo/assets/images/cabbo-app.svg" alt="Cabbo App Overview" class="w-full h-auto object-cover"
-                    style="width:100%; max-width: 800px;">
+                <img src="/cabbo/assets/images/cabbo-app.svg" alt="Cabbo App Overview"
+                    class="w-full h-auto object-cover" style="width:100%; max-width: 800px;">
             </div>
         </section>
 
@@ -228,14 +229,10 @@
                     <div class="flex justify-center px-4">
                         <div class="w-full max-w-2xl">
                             <!-- Desktop iframe -->
-                            <iframe 
-                                id="beehiiv-iframe"
+                            <iframe id="beehiiv-iframe"
                                 src="https://subscribe-forms.beehiiv.com/64a703b4-aa9e-4e8b-b849-4a8eb8a9b0e2"
-                                class="beehiiv-embed w-full hidden md:block" 
-                                data-test-id="beehiiv-embed" 
-                                frameborder="0" 
-                                scrolling="no"
-                                loading="lazy"
+                                class="beehiiv-embed w-full hidden md:block" data-test-id="beehiiv-embed"
+                                frameborder="0" scrolling="no" loading="lazy"
                                 style="height: 342px; margin: 0; border-radius: 12px !important; background-color: transparent; box-shadow: 0 0 #0000;">
                             </iframe>
                             <!-- Mobile fallback button -->
@@ -256,25 +253,27 @@
         </section>
     </main>
 
-    <div class="bg-white" width="100%"">
-    <footer class=" container mx-auto px-4 py-8 mt-16 text-center">
-        <div class="flex flex-col sm:flex-row justify-center items-center mb-4">
-            <img src="/cabbo/assets/images/cabbo-deepplants.svg" alt="Cabbo Logo"
-                style="height:16px; margin-bottom:8px; margin-top:3px;" class="sm:mr-3 sm:mb-0">
-            <!-- <img src="/cabbo/assets/images/cabbo-logo.svg" alt="Cabbo Logo" class="h-6 w-6 mr-3"> -->
-            <p class="text-brand-charcoal" data-i18n="footer.copyright">&copy; 2025 <a href="https://rossettisimone.github.io/cabbo"
-                    class="text-brand-green hover:underline">Cabbo</a> All rights reserved.</p>
-        </div>
-        <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
-            <a href="/cabbo/privacy-policy.html" class="text-brand-sage hover:text-brand-green"
-                data-i18n="footer.privacyPolicy">Privacy Policy</a>
-            <a href="/cabbo/terms-of-service.html" class="text-brand-sage hover:text-brand-green"
-                data-i18n="footer.termsOfService">Terms of Service</a>
-            <a href="/cabbo/cookie-policy.html" class="text-brand-sage hover:text-brand-green"
-                data-i18n="footer.cookiePolicy">Cookie Policy</a>
-            <a href="mailto:support@example.com" class="text-brand-sage hover:text-brand-green"
-                data-i18n="footer.contact">Contact</a>
-        </div>
+    <div class="bg-white" width="100%">
+        <footer class=" container mx-auto px-4 py-8 mt-16 text-center">
+            <div class="flex flex-col sm:flex-row justify-center items-center mb-4">
+                <img src="/cabbo/assets/images/cabbo-deepplants.svg" alt="Cabbo Logo"
+                    style="height:16px; margin-bottom:8px; margin-top:3px;" class="sm:mr-3 sm:mb-0">
+                <!-- <img src="/cabbo/assets/images/cabbo-logo.svg" alt="Cabbo Logo" class="h-6 w-6 mr-3"> -->
+                <p class="text-brand-charcoal" data-i18n="footer.copyright">&copy; 2025 <a
+                        href="https://rossettisimone.github.io/cabbo" class="text-brand-green hover:underline">Cabbo</a>
+                    All
+                    rights reserved.</p>
+            </div>
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <a href="/cabbo/privacy-policy.html" class="text-brand-sage hover:text-brand-green"
+                    data-i18n="footer.privacyPolicy">Privacy Policy</a>
+                <a href="/cabbo/terms-of-service.html" class="text-brand-sage hover:text-brand-green"
+                    data-i18n="footer.termsOfService">Terms of Service</a>
+                <a href="/cabbo/cookie-policy.html" class="text-brand-sage hover:text-brand-green"
+                    data-i18n="footer.cookiePolicy">Cookie Policy</a>
+                <a href="mailto:support@example.com" class="text-brand-sage hover:text-brand-green"
+                    data-i18n="footer.contact">Contact</a>
+            </div>
         </footer>
     </div>
 
