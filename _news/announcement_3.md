@@ -6,8 +6,8 @@ inline: false
 related_posts: false
 ---
 
-In **January 2025** we kicked off **CABBO**, a **multimodal AI agent for micro-farming decision support** at **DeepPlants**.  
+In **January 2025** we kicked off **CABBO**, a **multimodal AI agent for micro-farming decision support** at **DeepPlants**.
 
-CABBO aims to help small and medium farms make better operational decisions by combining **remote sensing, in-field sensing and agronomic knowledge** with **language and vision models**, in line with evidence on how digitalisation can improve competitiveness, sustainability and resilience in EU agriculture, as documented in Tur Cardona *et al.*’s JRC report *“The state of digitalisation in EU agriculture”* (JRC141259, doi: [10.2760/4688498](https://data.europa.eu/doi/10.2760/4688498)) [`JRC141259_01.pdf`].  
+CABBO aims to help small and medium farms make better operational decisions by combining **remote sensing, in-field sensing and agronomic knowledge** with **language and vision models**, in line with evidence on how digitalisation can improve competitiveness, sustainability and resilience in EU agriculture, as documented in Tur Cardona _et al._’s JRC report _“The state of digitalisation in EU agriculture”_ (JRC141259, doi: [10.2760/4688498](https://data.europa.eu/doi/10.2760/4688498)) [`JRC141259_01.pdf`].
 
 The project explores farmer-centric interfaces, trustworthy data practices, and pathways to integrate advanced digital tools into everyday farm management.

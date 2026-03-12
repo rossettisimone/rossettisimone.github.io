@@ -13,7 +13,6 @@ profile:
     <p>⬆️ Rainbow Mountain, Peru</p></br>
     <p>📍 Rome, Italy</p>
 
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -42,4 +41,4 @@ latest_posts:
 
 📄 My work has been presented at **NeurIPS, ECCV, and ICCV**. Selected publications and highlights are available on the [Publications page](/publications/).
 
-📮 For collaborations reach out at ```simone[dot]rossetti[at]live[dot]com```.
+📮 For collaborations reach out at `simone[dot]rossetti[at]live[dot]com`.

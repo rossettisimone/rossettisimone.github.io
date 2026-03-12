@@ -33,9 +33,7 @@
       "startDate": "2026-03-01",
       "endDate": "",
       "summary": "Pursuing research and development in embodied AI. Focus: multimodal foundation models (Vision-Language, VLA), large-scale Transformers, probabilistic modeling; embodied AI and generative modeling; system-level pipelines and production-grade intelligent systems.",
-      "highlights": [
-        "Goal: continue R&D in embodied AI; contribute to next-generation AI platforms and intelligent embodied systems."
-      ]
+      "highlights": ["Goal: continue R&D in embodied AI; contribute to next-generation AI platforms and intelligent embodied systems."]
     },
     {
       "name": "DeepPlants S.r.l.",
@@ -88,9 +86,7 @@
       "startDate": "2019-10-01",
       "endDate": "2021-10-01",
       "score": "GPA: 28.2/30 • Final grade: 110/110 Cum Laude",
-      "courses": [
-        "Master's thesis on fast instance segmentation and tracking for YouTube-VIS 2021"
-      ]
+      "courses": ["Master's thesis on fast instance segmentation and tracking for YouTube-VIS 2021"]
     },
     {
       "institution": "Università degli Studi Roma Tre",
@@ -176,37 +172,25 @@
       "name": "Training & Distributed Optimization",
       "level": "",
       "icon": "fa-solid fa-gears",
-      "keywords": [
-        "Multi-GPU (PyTorch DDP, FSDP, DeepSpeed ZeRO, Megatron-LM TP)",
-        "LoRA, PyTorch Lightning, Hugging Face, xFormers"
-      ]
+      "keywords": ["Multi-GPU (PyTorch DDP, FSDP, DeepSpeed ZeRO, Megatron-LM TP)", "LoRA, PyTorch Lightning, Hugging Face, xFormers"]
     },
     {
       "name": "Evaluation & Benchmarking",
       "level": "",
       "icon": "fa-solid fa-chart-line",
-      "keywords": [
-        "Benchmark Design, Ablation Studies, Cross-Dataset Robustness",
-        "Weights & Biases, MLflow, Hydra, OmegaConf"
-      ]
+      "keywords": ["Benchmark Design, Ablation Studies, Cross-Dataset Robustness", "Weights & Biases, MLflow, Hydra, OmegaConf"]
     },
     {
       "name": "Model Serving & Agentic Integration",
       "level": "",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "LangGraph, LangChain, LlamaIndex, SGLang, Ollama, vLLM",
-        "Milvus, Qdrant, Multimodal RAG, Docker, FastAPI, CI/CD"
-      ]
+      "keywords": ["LangGraph, LangChain, LlamaIndex, SGLang, Ollama, vLLM", "Milvus, Qdrant, Multimodal RAG, Docker, FastAPI, CI/CD"]
     },
     {
       "name": "Tooling & Workflow Automation",
       "level": "",
       "icon": "fa-solid fa-screwdriver-wrench",
-      "keywords": [
-        "Python, PyTorch, TIMM, OpenCLIP, Torchvision, OpenCV, Albumentations",
-        "TensorBoard, Git, Linux"
-      ]
+      "keywords": ["Python, PyTorch, TIMM, OpenCLIP, Torchvision, OpenCV, Albumentations", "TensorBoard, Git, Linux"]
     }
   ],
   "languages": [

@@ -29,16 +29,16 @@ It is the story of an industry that has **decided mass-market hardware is no lon
 
 Founded in 1996 as Micron’s consumer arm, Crucial became a pillar of:
 
-- DIY PC building  
-- affordable workstation upgrades  
-- predictable memory compatibility across platforms  
+- DIY PC building
+- affordable workstation upgrades
+- predictable memory compatibility across platforms
 
 Crucial’s competitive advantage was not peak performance, but **trust**.  
 For many users, it was the default choice precisely because it removed uncertainty from hardware upgrades.
 
 Its disappearance leaves a **structural gap**, not merely a branding void.
 
-*Clarification:* while consumer brands assemble and market memory modules, **pricing power and supply control ultimately reside with DRAM and NAND manufacturers**. Crucial’s role was downstream; the strategic decision was upstream.
+_Clarification:_ while consumer brands assemble and market memory modules, **pricing power and supply control ultimately reside with DRAM and NAND manufacturers**. Crucial’s role was downstream; the strategic decision was upstream.
 
 ---
 
@@ -49,7 +49,7 @@ Micron’s announcement left little room for interpretation.
 > “The AI-driven growth in the data center has led to a surge in demand for memory and storage.  
 > Micron has made the difficult decision to exit the Crucial consumer business in order to improve supply and support for our larger, strategic customers in faster-growing segments.”
 >
-> — *Sumit Sadana, EVP and Chief Business Officer, Micron Technology*
+> — _Sumit Sadana, EVP and Chief Business Officer, Micron Technology_
 
 **Source:**  
 Micron Investor Relations  
@@ -66,10 +66,10 @@ This represents a **long-term reallocation of capital, production capacity, and 
 
 Micron’s move aligns with a broader industry realignment.
 
-According to **Reuters**, major memory manufacturers — including *Samsung* and *SK Hynix* — are increasingly prioritising **high-performance memory for AI and data centres**, where margins are structurally higher and contracts are longer-term.
+According to **Reuters**, major memory manufacturers — including _Samsung_ and _SK Hynix_ — are increasingly prioritising **high-performance memory for AI and data centres**, where margins are structurally higher and contracts are longer-term.
 
 **Source:**  
-Reuters, *Micron to exit Crucial consumer memory business*  
+Reuters, _Micron to exit Crucial consumer memory business_  
 [https://www.reuters.com/business/micron-exit-crucial-consumer-memory-business-2025-12-03/](https://www.reuters.com/business/micron-exit-crucial-consumer-memory-business-2025-12-03/)
 The Crucial exit is therefore best understood as a **leading indicator**, not an anomaly.
 
@@ -97,7 +97,7 @@ The following graphic from TrendForce summarises projected **quarter-on-quarter 
   />
 </div>
 
-*Source: TrendForce / PR Newswire, January 2026*
+_Source: TrendForce / PR Newswire, January 2026_
 
 ### What the data shows
 
@@ -142,7 +142,7 @@ To make this divergence explicit, the chart below compares **projected 1Q26 cont
 }
 ```
 
-*Methodology note:* Conventional DRAM uses the midpoint of the reported 55–60% range. No extrapolation beyond published data has been performed.
+_Methodology note:_ Conventional DRAM uses the midpoint of the reported 55–60% range. No extrapolation beyond published data has been performed.
 
 **Conclusion:** the consumer memory market is no longer optimised for **stability or affordability**. It is increasingly treated as **residual output** of an industry tuned for AI workloads.
 
@@ -152,22 +152,22 @@ To make this divergence explicit, the chart below compares **projected 1Q26 cont
 
 The exit of Crucial has immediate, practical consequences:
 
-* fewer affordable memory options
-* higher baseline prices for upgrades
-* reduced competitive pressure in the mid-range
+- fewer affordable memory options
+- higher baseline prices for upgrades
+- reduced competitive pressure in the mid-range
 
 According to **Tom’s Hardware**, NAND production costs have risen sharply, pushing SSD and RAM prices upward across consumer segments.
 
 **Source:**
-Tom’s Hardware, *RAM and SSD prices will continue to rise*
+Tom’s Hardware, _RAM and SSD prices will continue to rise_
 [https://www.tomshardware.com/pc-components/ram/dont-wait-if-youre-planning-to-upgrade-your-ram-or-ssd-kingston-rep-warns-says-prices-will-continue-to-go-up-nand-costs-up-246-percent](https://www.tomshardware.com/pc-components/ram/dont-wait-if-youre-planning-to-upgrade-your-ram-or-ssd-kingston-rep-warns-says-prices-will-continue-to-go-up-nand-costs-up-246-percent)
 
 This disproportionately affects:
 
-* students
-* freelancers
-* small studios
-* mainstream laptop buyers
+- students
+- freelancers
+- small studios
+- mainstream laptop buyers
 
 ---
 
@@ -207,7 +207,7 @@ Based on earnings calls and **Reuters financial analysis**, data centre and AI-r
 }
 ```
 
-*Important clarification:* this chart is **illustrative**, reflecting directional emphasis described in earnings calls rather than exact revenue percentages.
+_Important clarification:_ this chart is **illustrative**, reflecting directional emphasis described in earnings calls rather than exact revenue percentages.
 
 ---
 
@@ -225,9 +225,9 @@ The semiconductor industry is historically cyclical.
 
 By concentrating production and investment almost entirely on AI and enterprise demand:
 
-* flexibility decreases
-* exposure to demand normalisation increases
-* consumer trust erodes
+- flexibility decreases
+- exposure to demand normalisation increases
+- consumer trust erodes
 
 Crucial’s exit is therefore not merely a cost decision, but a **strategic bet on the durability of AI-driven demand**.
 
@@ -240,9 +240,9 @@ It disappeared because it **no longer fit an industry optimised for AI margins**
 
 For consumers, this likely means:
 
-* higher prices
-* fewer choices
-* longer upgrade cycles
+- higher prices
+- fewer choices
+- longer upgrade cycles
 
 The memory market is being reshaped in real time.
 The more relevant question may be whether the consumer memory segment will **ever again be treated as a first-class priority** in a post-AI semiconductor industry.
@@ -251,7 +251,7 @@ The more relevant question may be whether the consumer memory segment will **eve
 
 ## Sources
 
-* Micron Investor Relations — [https://investors.micron.com/](https://investors.micron.com/)
-* Reuters, semiconductor and memory market analysis — [https://www.reuters.com/](https://www.reuters.com/)
-* TrendForce, memory pricing reports — [https://www.trendforce.com/](https://www.trendforce.com/)
-* Tom’s Hardware, component pricing commentary — [https://www.tomshardware.com/](https://www.tomshardware.com/)
+- Micron Investor Relations — [https://investors.micron.com/](https://investors.micron.com/)
+- Reuters, semiconductor and memory market analysis — [https://www.reuters.com/](https://www.reuters.com/)
+- TrendForce, memory pricing reports — [https://www.trendforce.com/](https://www.trendforce.com/)
+- Tom’s Hardware, component pricing commentary — [https://www.tomshardware.com/](https://www.tomshardware.com/)

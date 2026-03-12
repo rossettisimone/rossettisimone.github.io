@@ -161,10 +161,7 @@
         "dataSharing": {
           "title": "4. Data Sharing",
           "intro": "We do not sell your personal data. We may share your data only with:",
-          "items": [
-            "Trusted service providers (e.g., email delivery services, hosting providers).",
-            "Authorities, if legally required."
-          ]
+          "items": ["Trusted service providers (e.g., email delivery services, hosting providers).", "Authorities, if legally required."]
         },
         "dataRetention": {
           "title": "5. Data Retention",
@@ -545,27 +542,10 @@
         "landSize": "2.5 hectares",
         "primaryCrop": "Corn and Beans",
         "technicalLiteracy": "Low",
-        "challenges": [
-          "Limited access to agricultural resources",
-          "Vulnerable to climate changes",
-          "Low digital literacy"
-        ],
-        "goals": [
-          "Increase crop yield",
-          "Reduce input costs",
-          "Improve farm sustainability"
-        ],
-        "preferredFeatures": [
-          "Simple, mobile-friendly interface",
-          "Local language support",
-          "Low data consumption",
-          "Offline mode"
-        ],
-        "communicationPreferences": [
-          "SMS",
-          "WhatsApp",
-          "Local agricultural extension services"
-        ],
+        "challenges": ["Limited access to agricultural resources", "Vulnerable to climate changes", "Low digital literacy"],
+        "goals": ["Increase crop yield", "Reduce input costs", "Improve farm sustainability"],
+        "preferredFeatures": ["Simple, mobile-friendly interface", "Local language support", "Low data consumption", "Offline mode"],
+        "communicationPreferences": ["SMS", "WhatsApp", "Local agricultural extension services"],
         "image": "assets/images/personas/smallholder-farmer.png"
       },
       {
@@ -582,22 +562,9 @@
           "Integrating multiple data sources",
           "Translating research into practical solutions"
         ],
-        "goals": [
-          "Advance agricultural research",
-          "Develop data-driven farming strategies",
-          "Support sustainable agricultural practices"
-        ],
-        "preferredFeatures": [
-          "Advanced data visualization",
-          "API access",
-          "Comprehensive research datasets",
-          "Machine learning insights"
-        ],
-        "communicationPreferences": [
-          "Professional email",
-          "Academic conferences",
-          "Research collaboration platforms"
-        ],
+        "goals": ["Advance agricultural research", "Develop data-driven farming strategies", "Support sustainable agricultural practices"],
+        "preferredFeatures": ["Advanced data visualization", "API access", "Comprehensive research datasets", "Machine learning insights"],
+        "communicationPreferences": ["Professional email", "Academic conferences", "Research collaboration platforms"],
         "image": "assets/images/personas/agricultural-expert.png"
       },
       {
@@ -608,28 +575,10 @@
         "location": "Northern Nigeria",
         "organization": "State Agricultural Development Program",
         "technicalLiteracy": "Medium",
-        "challenges": [
-          "Reaching remote farming communities",
-          "Limited technological infrastructure",
-          "Diverse communication needs"
-        ],
-        "goals": [
-          "Improve farmer knowledge",
-          "Facilitate technology transfer",
-          "Support community agricultural development"
-        ],
-        "preferredFeatures": [
-          "Multilingual support",
-          "Offline documentation",
-          "Community knowledge sharing",
-          "Easy-to-share educational materials"
-        ],
-        "communicationPreferences": [
-          "WhatsApp groups",
-          "Community meetings",
-          "Local radio",
-          "Printed materials"
-        ],
+        "challenges": ["Reaching remote farming communities", "Limited technological infrastructure", "Diverse communication needs"],
+        "goals": ["Improve farmer knowledge", "Facilitate technology transfer", "Support community agricultural development"],
+        "preferredFeatures": ["Multilingual support", "Offline documentation", "Community knowledge sharing", "Easy-to-share educational materials"],
+        "communicationPreferences": ["WhatsApp groups", "Community meetings", "Local radio", "Printed materials"],
         "image": "assets/images/personas/extension-worker.png"
       }
     ],
@@ -806,7 +755,7 @@
     "cookiePolicy": {
       "title": "🍪 Cookie Policy",
       "description": "This Cookie Policy explains how Cabbo (\"we\", \"our\", or \"us\") uses cookies and similar technologies on our website.",
-    "sections": {
+      "sections": {
         "whatAreCookies": {
           "title": "1. What Are Cookies?",
           "description": "Cookies are small text files placed on your device (computer, smartphone, tablet) when you visit a website. They help us improve your browsing experience and enable certain site functionalities.",
@@ -863,12 +812,7 @@
           "title": "5. Cookie Management",
           "description": "When you first visit our site, a cookie banner will ask you to accept, reject, or customize your preferences.",
           "browserSettings": "You can also manage or delete cookies at any time through your browser settings:",
-          "items": [
-            "Google Chrome: Manage cookies",
-            "Mozilla Firefox: Manage cookies",
-            "Safari: Manage cookies",
-            "Microsoft Edge: Manage cookies"
-          ],
+          "items": ["Google Chrome: Manage cookies", "Mozilla Firefox: Manage cookies", "Safari: Manage cookies", "Microsoft Edge: Manage cookies"],
           "note": "If you disable cookies, some features of the site may not function properly."
         },
         "updates": {

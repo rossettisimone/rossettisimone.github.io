@@ -25,7 +25,7 @@ How digital is EU agriculture?
 
 Until recently, nobody could answer that question with evidence. Digitalisation has been a central pillar of the **Common Agricultural Policy (CAP)** and of the EU Digital Agenda for years, yet there was no EU-wide baseline to measure where farms actually stood.
 
-The **Joint Research Centre (JRC)** has now filled that gap. Its report *The state of digitalisation in EU agriculture: Insights from farm surveys* (JRC141259) is based on **1,444 interviews** with farmers in **nine Member States** (Germany, Ireland, Greece, Spain, France, Italy, Lithuania, Hungary and Poland), conducted between June and October 2024. This is the first systematic snapshot of farm-level digital adoption across the EU.
+The **Joint Research Centre (JRC)** has now filled that gap. Its report _The state of digitalisation in EU agriculture: Insights from farm surveys_ (JRC141259) is based on **1,444 interviews** with farmers in **nine Member States** (Germany, Ireland, Greece, Spain, France, Italy, Lithuania, Hungary and Poland), conducted between June and October 2024. This is the first systematic snapshot of farm-level digital adoption across the EU.
 
 What follows is a narrative reading of the report’s core results, combining key figures, selected charts, and the implications that matter most for policy makers, technology builders, and anyone thinking seriously about AI in agriculture.
 
@@ -166,6 +166,7 @@ Age plays a limited role. Education matters more for general IT than for special
 The report does not point to a single policy lever. It points to **heterogeneity**. Adoption differs by technology, farm size, region and production system.
 
 The strongest signals are clear:
+
 - Connectivity and training matter
 - Administrative burden discourages adoption
 - Software and records deliver visible value
@@ -183,7 +184,7 @@ This post draws from selected figures in the report. The full dataset can be exp
 [https://datam.jrc.ec.europa.eu/datam/mashup/DIGITALISATION_IN_EU_AGRICULTURE/](https://datam.jrc.ec.europa.eu/datam/mashup/DIGITALISATION_IN_EU_AGRICULTURE/)
 
 **Reference**  
-Tur Cardona, J. et al. *The state of digitalisation in EU agriculture: Insights from farm surveys*. Publications Office of the European Union, 2025.  
+Tur Cardona, J. et al. _The state of digitalisation in EU agriculture: Insights from farm surveys_. Publications Office of the European Union, 2025.  
 DOI: [https://data.europa.eu/doi/10.2760/4688498](https://data.europa.eu/doi/10.2760/4688498)
 
 This is now the empirical baseline for CAP implementation and for the Commission’s work on a digital and AI-ready agri-food sector. The signal is consistent throughout the data: **records and software first; drones and robotics when they demonstrably earn their keep**.
