@@ -33,14 +33,14 @@
   contents:
     - title: Transition — R&D in embodied AI
       institution: Independent • Pursuing research and development in embodied AI in industry
-      year: Mar 2025 - Present
+      year: Mar 2026 - Present
       description:
         - Goal: continue R&D in embodied AI; transition toward roles in high-impact, production-grade intelligent systems.
         - Focus on multimodal foundation models (Vision-Language, Vision-Language-Action), large-scale Transformers, probabilistic modeling for sequential decision processes.
         - Structured analysis of embodied AI and generative modeling; hands-on prototyping for architectural trade-offs, scalability, and deployment feasibility.
     - title: Co-Founder & Applied Researcher
       institution: DeepPlants S.r.l. • AI research startup in agri-tech and intelligent automation
-      year: Sep 2021 - Feb 2025
+      year: Sep 2021 - Feb 2026
       description:
         - Led development of multimodal, agent-oriented AI systems for micro-farming management and decision support.
         - Built scalable training pipelines (multi-GPU) and optimized data workflows.

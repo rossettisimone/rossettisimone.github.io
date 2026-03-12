@@ -30,7 +30,7 @@
       "name": "Transition — R&D in embodied AI",
       "position": "Independent",
       "url": "",
-      "startDate": "2025-03-01",
+      "startDate": "2026-03-01",
       "endDate": "",
       "summary": "Pursuing research and development in embodied AI. Focus: multimodal foundation models (Vision-Language, VLA), large-scale Transformers, probabilistic modeling; embodied AI and generative modeling; system-level pipelines and production-grade intelligent systems.",
       "highlights": [
@@ -42,7 +42,7 @@
       "position": "Co-Founder and Lead Applied Researcher",
       "url": "",
       "startDate": "2021-10-01",
-      "endDate": "2025-02-28",
+      "endDate": "2026-02-28",
       "summary": "Defined technical vision for multimodal AI-driven decision-support systems and led a 5-person R&D team, advancing prototypes from TRL1 to TRL5 within 12 months.",
       "highlights": [
         "Designed data-efficient training strategies and implemented distributed PyTorch pipelines (Hugging Face, OpenCLIP, xFormers), reducing annotation requirements by 70% while maintaining ≥85% performance across heterogeneous conditions.",
@@ -226,7 +226,7 @@
   "projects": [
     {
       "name": "Cabbo",
-      "description": "AI-powered agricultural decision-support system (developed at DeepPlants until early 2025) for farm management; web and mobile deployment for rural accessibility.",
+      "description": "AI-powered agricultural decision-support system (developed at DeepPlants until early 2026) for farm management; web and mobile deployment for rural accessibility.",
       "highlights": [],
       "url": "",
       "startDate": "",

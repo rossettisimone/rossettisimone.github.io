@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Leaving DeepPlants — pursuing R&D in embodied AI
-date: 2025-03-01 10:00:00+0200
+date: 2026-03-01 10:00:00+0200
 inline: false
 related_posts: false
 ---
 
-As of **March 2025** I have left [DeepPlants](https://www.deepplants.com/) after co-founding and leading R&D there since September 2021. I am grateful for the experience of building production-grade, agentic AI systems for micro-farming and agri-tech, and for the team and partners who made it possible.
+As of **March 2026** I have left [DeepPlants](https://www.deepplants.com/) after co-founding and leading R&D there since September 2021. I am grateful for the experience of building production-grade, agentic AI systems for micro-farming and agri-tech, and for the team and partners who made it possible.
 
 My **goal is to continue in research and development in embodied AI**. I am now in a deliberate transition toward roles where I can do exactly that: high-impact, production-grade intelligent systems.
 
