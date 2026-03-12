@@ -99,6 +99,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_4/";
+            },},{id: "news-leaving-deepplants-pursuing-r-amp-d-in-embodied-ai",
+          title: 'Leaving DeepPlants — pursuing R&amp;amp;D in embodied AI',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_5/";
             },},{id: "news-cabbo-applying-to-cosmic-and-smarterra-open-calls",
           title: 'CABBO applying to COSMIC and SmarTerra open calls',
           description: "",
