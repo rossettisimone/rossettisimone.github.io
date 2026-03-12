@@ -295,27 +295,10 @@
         "landSize": "2,5 ettari",
         "primaryCrop": "Mais e Fagioli",
         "technicalLiteracy": "Bassa",
-        "challenges": [
-          "Accesso limitato alle risorse agricole",
-          "Vulnerabile ai cambiamenti climatici",
-          "Bassa alfabetizzazione digitale"
-        ],
-        "goals": [
-          "Aumentare la resa delle colture",
-          "Ridurre i costi degli input",
-          "Migliorare la sostenibilità aziendale"
-        ],
-        "preferredFeatures": [
-          "Interfaccia semplice e mobile-friendly",
-          "Supporto lingua locale",
-          "Basso consumo dati",
-          "Modalità offline"
-        ],
-        "communicationPreferences": [
-          "SMS",
-          "WhatsApp",
-          "Servizi di estensione agricola locali"
-        ],
+        "challenges": ["Accesso limitato alle risorse agricole", "Vulnerabile ai cambiamenti climatici", "Bassa alfabetizzazione digitale"],
+        "goals": ["Aumentare la resa delle colture", "Ridurre i costi degli input", "Migliorare la sostenibilità aziendale"],
+        "preferredFeatures": ["Interfaccia semplice e mobile-friendly", "Supporto lingua locale", "Basso consumo dati", "Modalità offline"],
+        "communicationPreferences": ["SMS", "WhatsApp", "Servizi di estensione agricola locali"],
         "image": "assets/images/personas/smallholder-farmer.png"
       },
       {
@@ -332,22 +315,9 @@
           "Integrare multiple fonti di dati",
           "Tradurre la ricerca in soluzioni pratiche"
         ],
-        "goals": [
-          "Avanzare la ricerca agricola",
-          "Sviluppare strategie agricole basate sui dati",
-          "Supportare pratiche agricole sostenibili"
-        ],
-        "preferredFeatures": [
-          "Visualizzazione dati avanzata",
-          "Accesso API",
-          "Dataset di ricerca completi",
-          "Approfondimenti machine learning"
-        ],
-        "communicationPreferences": [
-          "Email professionale",
-          "Conferenze accademiche",
-          "Piattaforme collaborazione ricerca"
-        ],
+        "goals": ["Avanzare la ricerca agricola", "Sviluppare strategie agricole basate sui dati", "Supportare pratiche agricole sostenibili"],
+        "preferredFeatures": ["Visualizzazione dati avanzata", "Accesso API", "Dataset di ricerca completi", "Approfondimenti machine learning"],
+        "communicationPreferences": ["Email professionale", "Conferenze accademiche", "Piattaforme collaborazione ricerca"],
         "image": "assets/images/personas/agricultural-expert.png"
       },
       {
@@ -358,11 +328,7 @@
         "location": "Nigeria Settentrionale",
         "organization": "Programma di Sviluppo Agricolo Statale",
         "technicalLiteracy": "Media",
-        "challenges": [
-          "Raggiungere comunità agricole remote",
-          "Infrastruttura tecnologica limitata",
-          "Bisogni comunicativi diversi"
-        ],
+        "challenges": ["Raggiungere comunità agricole remote", "Infrastruttura tecnologica limitata", "Bisogni comunicativi diversi"],
         "goals": [
           "Migliorare la conoscenza degli agricoltori",
           "Facilitare il trasferimento tecnologico",
@@ -374,12 +340,7 @@
           "Condivisione conoscenza comunitaria",
           "Materiali educativi facili da condividere"
         ],
-        "communicationPreferences": [
-          "Gruppi WhatsApp",
-          "Riunioni comunitarie",
-          "Radio locale",
-          "Materiali stampati"
-        ],
+        "communicationPreferences": ["Gruppi WhatsApp", "Riunioni comunitarie", "Radio locale", "Materiali stampati"],
         "image": "assets/images/personas/extension-worker.png"
       }
     ],
