@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-state-of-digitalisation-in-eu-agriculture-what-the-data-finally-shows",
+        },{id: "post-formal-verification-for-safe-intelligence-the-deeppoly-view",
+        
+          title: "Formal Verification for Safe Intelligence: The DeepPoly View",
+        
+        description: "Part I of a technical series on safe intelligence: why empirical robustness is not enough, and how DeepPoly made neural network certification both sound and scalable.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/formal-verification-deeppoly/";
+          
+        },
+      },{id: "post-the-state-of-digitalisation-in-eu-agriculture-what-the-data-finally-shows",
         
           title: "The State of Digitalisation in EU Agriculture: What the Data Finally Shows",
         

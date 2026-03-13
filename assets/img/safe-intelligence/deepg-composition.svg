@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="DeepG whole-composition relaxation pipeline">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#172554"/>
+    </linearGradient>
+    <linearGradient id="card" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#17223a"/>
+      <stop offset="100%" stop-color="#0d1629"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="8" flood-color="#020617" flood-opacity="0.45"/>
+    </filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#7dd3fc"/>
+    </marker>
+    <style>
+      .title { font: 700 32px 'Segoe UI', system-ui, sans-serif; fill: #f8fafc; }
+      .sub { font: 400 18px 'Segoe UI', system-ui, sans-serif; fill: #dbeafe; }
+      .h { font: 650 20px 'Segoe UI', system-ui, sans-serif; fill: #eff6ff; }
+      .b { font: 400 14px 'Segoe UI', system-ui, sans-serif; fill: #dbeafe; }
+      .m { font: 600 13px Consolas, 'Courier New', monospace; fill: #fde68a; }
+    </style>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="1110" cy="110" r="165" fill="#2563eb" opacity="0.1"/>
+  <circle cx="100" cy="640" r="220" fill="#38bdf8" opacity="0.07"/>
+
+  <text class="title" x="600" y="80" text-anchor="middle">DeepG: relax the full transformation composition</text>
+  <text class="sub" x="600" y="116" text-anchor="middle">Build constraints over the result set, not via stepwise bound propagation.</text>
+
+  <rect x="70" y="188" rx="16" ry="16" width="232" height="210" fill="url(#card)" stroke="#38bdf8" stroke-width="2.1" filter="url(#shadow)"/>
+  <text class="h" x="186" y="238" text-anchor="middle">Parameter box h</text>
+  <text class="m" x="186" y="270" text-anchor="middle">kappa in h</text>
+  <text class="b" x="186" y="300" text-anchor="middle">rotation, translation, scale,</text>
+  <text class="b" x="186" y="321" text-anchor="middle">shear, brightness/contrast</text>
+
+  <rect x="350" y="188" rx="16" ry="16" width="232" height="210" fill="url(#card)" stroke="#818cf8" stroke-width="2.1" filter="url(#shadow)"/>
+  <text class="h" x="466" y="238" text-anchor="middle">Image map</text>
+  <text class="m" x="466" y="272" text-anchor="middle">P o I o T_mu^-1</text>
+  <text class="b" x="466" y="301" text-anchor="middle">Treat the whole composition</text>
+  <text class="b" x="466" y="322" text-anchor="middle">as one analyzable mapping.</text>
+
+  <rect x="630" y="188" rx="16" ry="16" width="232" height="210" fill="url(#card)" stroke="#c084fc" stroke-width="2.1" filter="url(#shadow)"/>
+  <text class="h" x="746" y="238" text-anchor="middle">Sound envelopes</text>
+  <text class="m" x="746" y="271" text-anchor="middle">b_l + w_l^T k &lt;= I_k</text>
+  <text class="m" x="746" y="291" text-anchor="middle">I_k &lt;= b_u + w_u^T k</text>
+  <text class="b" x="746" y="325" text-anchor="middle">Sampling + LP + Lipschitz</text>
+  <text class="b" x="746" y="346" text-anchor="middle">correction for global soundness.</text>
+
+  <rect x="910" y="188" rx="16" ry="16" width="232" height="210" fill="url(#card)" stroke="#34d399" stroke-width="2.1" filter="url(#shadow)"/>
+  <text class="h" x="1026" y="238" text-anchor="middle">Verifier</text>
+  <text class="m" x="1026" y="272" text-anchor="middle">DeepPoly / ERAN</text>
+  <text class="b" x="1026" y="301" text-anchor="middle">Consume tighter input set</text>
+  <text class="b" x="1026" y="322" text-anchor="middle">to certify class stability.</text>
+
+  <path d="M302 290 L350 290" stroke="#7dd3fc" stroke-width="3.1" fill="none" marker-end="url(#arrow)"/>
+  <path d="M582 290 L630 290" stroke="#7dd3fc" stroke-width="3.1" fill="none" marker-end="url(#arrow)"/>
+  <path d="M862 290 L910 290" stroke="#7dd3fc" stroke-width="3.1" fill="none" marker-end="url(#arrow)"/>
+
+  <rect x="70" y="468" rx="16" ry="16" width="1072" height="172" fill="#091223" stroke="#475569" stroke-width="2" filter="url(#shadow)"/>
+  <text x="606" y="514" font-family="'Segoe UI', system-ui, sans-serif" font-size="21" font-weight="650" fill="#f8fafc" text-anchor="middle">Why this helps vs interval propagation</text>
+  <text class="b" x="606" y="546" text-anchor="middle">Stepwise methods lose precision at each intermediate transformation stage.</text>
+  <text class="b" x="606" y="569" text-anchor="middle">DeepG instead relaxes the final transformed-image set directly over kappa.</text>
+  <text class="b" x="606" y="592" text-anchor="middle">The resulting abstraction stays tight enough for downstream certification.</text>
+</svg>
