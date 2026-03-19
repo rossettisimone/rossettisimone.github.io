@@ -37,7 +37,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-formal-verification-for-safe-intelligence-the-deeppoly-view",
+        },{id: "post-verifiou-verified-object-detection-and-the-next-frontier-in-safe-cv",
+        
+          title: "VerifIoU: Verified Object Detection and the Next Frontier in Safe CV",
+        
+        description: "Part IV of the safe intelligence series: how VerifIoU certifies localization quality through IoU bounds, and why the next major challenge is geometric verification for object detectors.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/verifiou-object-detection/";
+          
+        },
+      },{id: "post-deepg-certifying-geometric-robustness-in-computer-vision",
+        
+          title: "DeepG: Certifying Geometric Robustness in Computer Vision",
+        
+        description: "Part III of the safe intelligence series: how DeepG certifies neural networks against realistic geometric perturbations by relaxing the whole image-transformation composition at once.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/deepg-geometric-robustness/";
+          
+        },
+      },{id: "post-why-intervals-break-dpneurifyfv-and-the-dependency-problem",
+        
+          title: "Why Intervals Break: DPNEURIFYFV and the Dependency Problem",
+        
+        description: "Part II of the safe intelligence series: why naive interval methods deteriorate with depth, and how DPNEURIFYFV sharpens symbolic interval propagation with fresh variables and branch-and-bound.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/intervals-dpneurifyfv/";
+          
+        },
+      },{id: "post-formal-verification-for-safe-intelligence-the-deeppoly-view",
         
           title: "Formal Verification for Safe Intelligence: The DeepPoly View",
         
