@@ -1,6 +1,9 @@
 name: Deploy site
 
 on:
+  # Rebuild daily so future-dated posts appear when their date passes (Jekyll excludes them until then)
+  schedule:
+    - cron: "35 23 * * *"  # 23:35 UTC daily
   push:
     branches:
       - master
