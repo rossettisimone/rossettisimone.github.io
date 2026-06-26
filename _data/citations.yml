@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-26'
 papers:
   aynWg48AAAAJ:2osOgNQ5qMEC:
     citations: 18
@@ -18,7 +18,7 @@ papers:
     title: Reducing supervision in semantic segmentation through advancements in bayesian prior modelling
     year: '2025'
   aynWg48AAAAJ:d1gkVwhDpl0C:
-    citations: 116
+    citations: 117
     title: Max pooling with vision transformers reconciles class and shape in weakly supervised semantic segmentation
     year: '2022'
   aynWg48AAAAJ:u-x6o8ySG0sC:
